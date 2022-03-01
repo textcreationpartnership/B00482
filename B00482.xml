@@ -1,0 +1,912 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first part of the key of philosophie. Wherein is contained moste ex- [sic] excellent secretes of phisicke and philosophie, divided into twoo bookes. : In the firste is shewed the true and perfect order to distill ... In the seconde is shewed the true and perfect order to prepare, calcine, sublime, and dissolue all maner of mineralles ... / First written in the Germaine tongue by the moste learned Theophrastus Paraselsus, and now published in the Englishe tongue by Ihon [sic] Hester practitioner in the arte of distillation..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 70 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00482</idno>
+            <idno type="STC">STC 19181.5</idno>
+            <idno type="STC">ESTC S94592</idno>
+            <idno type="EEBO-CITATION">57402318</idno>
+            <idno type="OCLC">ocm 57402318</idno>
+            <idno type="VID">181118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00482)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181118)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2169:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first part of the key of philosophie. Wherein is contained moste ex- [sic] excellent secretes of phisicke and philosophie, divided into twoo bookes. : In the firste is shewed the true and perfect order to distill ... In the seconde is shewed the true and perfect order to prepare, calcine, sublime, and dissolue all maner of mineralles ... / First written in the Germaine tongue by the moste learned Theophrastus Paraselsus, and now published in the Englishe tongue by Ihon [sic] Hester practitioner in the arte of distillation..</title>
+                  <author>Hester, John, d. 1593.</author>
+                  <author>Paracelsus, 1493-1541.</author>
+                  <author>Hermanni, Philippus.</author>
+               </titleStmt>
+               <extent>[126] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Day, to be sold at the long shop at the West ende of Paules.,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1580..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Appears to have been compiled by Hester from works by both Paracelsus and Philippus Hermanni.</note>
+                  <note>"The key of philosophie. The second parte." has special t.p. Register is continuous.</note>
+                  <note>Signatures: *⁸, A-G⁸ (last leaf blank).</note>
+                  <note>Imperfect: cropped, stained.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Materia medica --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:181118:1"/>
+                  <pb facs="tcp:181118:1"/>
+                  <p>
+                     <hi>The firſt part of the Key <hi>of Philoſophie.</hi>
+                     </hi>
+                  </p>
+                  <p>Wherein is contained moſte ex<g ref="char:EOLhyphen"/>excellent ſecretes of Phiſicke and Philoſophie, deuided into twoo Bookes.</p>
+                  <p>In the firſte is ſhewed the true and perfect order to diſtill, or drawe forthe the Oiles, of all manner of Gummes, Spices, Seedes, Rootes, and Herbes, with their perfect taſte, ſmell, &amp; vertues.</p>
+                  <p>In the ſeconde is ſhewed the true and perfect order to prepare, calcine, ſublime, and diſſolue all maner of Mineralles, and how ye ſhall drawe forthe their Oiles and Saltes, whiche are moſte wonderfull in their operations, for the health of mannes bodie. Firſt written in the Germaine tongue by the moſte learned <hi>Theophraſtus</hi> Paraſelſus, and now pu<g ref="char:EOLhyphen"/>bliſhed in the Engliſhe tongue by <hi>Ihon Heſter</hi> practitio<g ref="char:EOLhyphen"/>ner in the Arte of diſtillation. <hi>1580.</hi>
+                  </p>
+                  <p>
+                     <hi>AT LONDON. Printed by Richard Day, to be ſold at the long Shop at the Weſt ends of Paules.</hi>
+                  </p>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:181118:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:181118:2"/>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:181118:3"/>
+                  <pb facs="tcp:181118:3"/>
+                  <head>
+                     <hi>To the righte reuerende <hi>Father in GOD, and his ſingular</hi>
+                     </hi> good Lord Ihon Watſon, by the grace of God Biſhop of Wincheſter, and Prelate of the right honourable order of the Garter. I. H. wiſheth healthe and peace, and long life in Ieſus Chriſt.</head>
+                  <p>
+                     <seg rend="decorInit">P</seg>Retie and pithie is the tale (my good lorde) that Plato tells in his Protagoras, and ſomewhat appliable to my prſent purpoſe, and therefore not abſurd for me to ſett doune, to the better preferment of my pretence. Emong other his excellent inuentions (as he is in all his thinges moste like hymſelf ſtill verie diuine) he ſhe<g ref="char:EOLhyphen"/>weth
+<pb facs="tcp:181118:4"/> how Joue looking doune fro<g ref="char:cmbAbbrStroke">̄</g> Heauen with a pitifull regarde, vpon the harde and vntowarde condition of men, ſeeyng the ſon<g ref="char:EOLhyphen"/>drie calamities, and infinite miſe<g ref="char:EOLhyphen"/>ries that they were ſubiect vnto, while yet they liued ſauage like beastes amongſt beastes, euery man leadyng his life after the le<g ref="char:EOLhyphen"/>uell of his owne luſt: tooke order ſtraight with his winged meſſen<g ref="char:EOLhyphen"/>ger Mercurie, to deſcende doune with expedition, with trauell to collecte and gather together the diſperſed multitude, that ſo vni<g ref="char:EOLhyphen"/>ted they might bothe bee ſtronger to defende them ſelues from the bruite beastes their common ene<g ref="char:EOLhyphen"/>mie:
+<pb facs="tcp:181118:4"/> &amp; lincked as it were in a bo<g ref="char:EOLhyphen"/>die pollique, each preſented as wel with the daily viewe of his owne want, as the continuall ſhowe of like lacke in others, might with ioynt aſſent and conſent (as dri<g ref="char:EOLhyphen"/>uen by neceſſitie) endeuor to driue neceſſitie from themſelues. For the ſpedier accompliſhyng whereof, he had in charge to establiſhe a law, that if any amongeſt them weare founde vnfurniſhed with Iuſtice, and voide of ſhame fastneſſe: the ſame ſhould bee accompted as an vnprofitable Droane among la<g ref="char:EOLhyphen"/>bouryng Bees, and ſhould ſuffer puniſhement accordyngly. A wor<g ref="char:EOLhyphen"/>thie tale, and fit ſo worthie a Phi<g ref="char:EOLhyphen"/>loſopher.
+<pb facs="tcp:181118:5"/> By the which he liuely de<g ref="char:EOLunhyphen"/>liuered in generall tearmes, that whiche wee daiely finde in parti<g ref="char:EOLhyphen"/>culare proof: to weete, no common wealth, nor ſocietie to continewe long happie where the members &amp; partes therof either for loue of iu<g ref="char:EOLhyphen"/>ſtice, or feare of ſhame are not like affectioned eche other. Now least J ſhould ſeeme to allowe of this tale in ſpeeche, and to diſlike it in practiſe, J haue preſumed by this bare tranſlation, to teſtifie my for<g ref="char:EOLhyphen"/>wardneſſe in furtheryng her that fosters me. And yet is not my tra<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ſlatio<g ref="char:cmbAbbrStroke">̄</g> ſo bare (my good lorde) but that it carrieth in it more plain<g ref="char:EOLhyphen"/>neſſe to the readers, then perhapps
+<pb facs="tcp:181118:5"/> thei ſhall finde in the first writer: For beſide that J haue culled out their choiſe thynges, J haue from the ſame choiſe proined, and cut of their ſuperfluities, I haue ſupplied their defectes, J haue laied open their obſcuritie, and I haue ſhado<g ref="char:EOLhyphen"/>wed their defaultes, neither yet arrogating to my ſelf, nor deroga<g ref="char:EOLhyphen"/>tyng from them, but as Dies diem docet, ſo Experimentu<g ref="char:cmbAbbrStroke">̄</g> experiendo confirmatur. VVhat my trauaile herein ſhall profite, J knowe not: but ſure J am my trouble in the triall of them hath been great, my expe<g ref="char:cmbAbbrStroke">̄</g>ces large, my proofs painfull, and nothing at all herein pleaſant ſaue onely a little knowledge that
+<pb facs="tcp:181118:6"/> I haue gott, aboue the capacitie of the common ſort, a thing ſure that I value farre aboue the price that it coste me. VVhich knowledge in deede ſuch is my groſneſſe, or ſuch the ſubtilneſſe of the matter it ſelf that I ca<g ref="char:cmbAbbrStroke">̄</g> eaſilyer by demo<g ref="char:cmbAbbrStroke">̄</g>ſtration ſhew it, then by declaration teach it: and therefore dare I not vnder credite warrant perſpicuitie to all me<g ref="char:cmbAbbrStroke">̄</g>, but to thoſe that are Filij ar<g ref="char:EOLhyphen"/>tis. I promiſe more then I founde, and yet founde J more then thei hauing would willingly loſe: to the reſidue I maie ſaie, that as hennes ſit, but hatche not chickens in one daie: ſo men read, but learne not artes in one daie. To you my good
+<pb facs="tcp:181118:6"/> Lord, whoſe countenance herein I craue for protection, whoſe iudge<g ref="char:EOLhyphen"/>ment and skill I appeale to for fa<g ref="char:EOLhyphen"/>uor, I muſt needes confeſſe thei are not written (although loth to haue them maſterleſſe like their maſter, J am ouer bolde, to ſhroude them vnder your winges) to you J ſaie thei are not written, except ouer<g ref="char:EOLhyphen"/>laden with the deepe &amp; graue mi<g ref="char:EOLhyphen"/>ſteries of higher and more heauen<g ref="char:EOLhyphen"/>ly Philoſophie, it maie pleaſe you for delight, now and then to looke doune into the plentifull and plea<g ref="char:EOLhyphen"/>ſant ſtorehouſe of Nature, a mat<g ref="char:EOLhyphen"/>ter no doubt<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that all your whole life time <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>ue been ſingularly delighted <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>as moſt plainly do
+<pb facs="tcp:181118:7"/> declare the ſingularitie, that you haue happely attained vnto in all and euery the partes of her, no leſſe to your great co<g ref="char:cmbAbbrStroke">̄</g>tent at home, then to your like co<g ref="char:cmbAbbrStroke">̄</g>mendation abroad: which becauſe I can neither praiſe to your deſarte, nor in praiſyng pleaſe your deſire, I leaue to ſpeake farther of: only deſiring your good lordſhip with your wonted cleme<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>cie, to accept of this ſmall teſtimo<g ref="char:EOLhyphen"/>nie of my great good will, aſſuring your ſelf, that emongſt the greate number of your well willers, there is no one more dueti<g ref="char:EOLhyphen"/>full then your pore</p>
+                  <closer>
+                     <signed>Jhon Hester.</signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:181118:7"/>
+                  <p>
+                     <seg rend="decorInit">E</seg>Xperie<g ref="char:cmbAbbrStroke">̄</g>ce the daugh<g ref="char:EOLhyphen"/>ter of Tyme, the mo<g ref="char:EOLhyphen"/>ther of Wiſedom, the rewarde of trauell, and the onely iewell of a fewe the wiſer, is commonly good Reader ſette out at ſo high a price, &amp; valewed at ſo deare a pe<g ref="char:EOLhyphen"/>neyworth, that ſhe hath euer moe cheap<g ref="char:EOLhyphen"/>ners then Chapmen, moe lookers on her, then likers of her: and yet is ſhe bought of ſome, though one dram of her coſt them a whole pound of repentance. To diſcende into the particulars, were but to tye thee to aweariſome tale, and to leade thee a<g ref="char:EOLhyphen"/>long through a tedious Laborinth, ſtuft full of examples of former age: a matter alreadie ſo open to the viewe of the whole world, that for me to ſtirre farther ther<g ref="char:EOLhyphen"/>in, were but to ſette a light Candle in the bright ſunn. Onely for proof, it may pleaſe thee good Reader to admitte the instance in my ſelf. When I began firſt to ſhake ha<g ref="char:cmbAbbrStroke">̄</g>ds with the varietie of delightes, that vn<g ref="char:EOLhyphen"/>ſtayed
+<pb facs="tcp:181118:8"/> youth, are commonly caried awaie with: &amp; looking back (as it were ouer my ſhoulder) ſaw the vaſt Sea of ſugered mi<g ref="char:EOLhyphen"/>ſeries that I had waded through: I then began to thinke it high tyme to ſet doune a ſurer compaſſe to direct the remnant of the courſe that I haue yet to runne. And although at that tyme I caried in my purſe ſufficient wealth to ſupport my cal<g ref="char:EOLhyphen"/>lyng, in my bodie ſufficie<g ref="char:cmbAbbrStroke">̄</g>t health to main<g ref="char:EOLhyphen"/>taine my life: and theſe both ſo reaſonable as might haue ſatiſfied a reaſonable man, (were not <hi>Natura hominu<g ref="char:cmbAbbrStroke">̄</g> nouitatis aui<g ref="char:EOLhyphen"/>da</hi>) yet found I neither ſuch content in the one, nor the other, as might longer co<g ref="char:cmbAbbrStroke">̄</g>tent me to continue in that ſtate. But drawne on a while by this inſtinct or infection (I know not whither to call it) I was driuen at laſt by a greedy kinde of Ieloſie, to enuie the ſtore that I ſaw in others, in reſpect of mine owne penurie: and therwithall I fell into conſideration how I might become one of the ſmall nomber of thoſe, who<g ref="char:cmbAbbrStroke">̄</g> the
+<pb facs="tcp:181118:8"/> greateſt number wondred at. To enter the ſtraight path that many the learned had happely to their greate commenda<g ref="char:EOLhyphen"/>tion perfectly troden, I ſaw it almoſte vn<g ref="char:EOLhyphen"/>poſſible: vnleſſe peraduenture I ſhould get me where the Muſes dwell, to Oxforde and Cambridge: and there puttyng my ſelf a prentize ſeuen yeares, to the ſeuen libe<g ref="char:EOLhyphen"/>rall ſciences, might afterwarde become as long iourney man I can not tell to whome: &amp; in the end (as too many the learned do) get I can not tel what. This courſe yeelded ſo courſe a liking, as I ſoner paſſed ouer it, then into it: and castyng about again with my ſelf, I was combred with a hundreth other odde crochettes, all as farre beyond the compaſſe of my reache, as they were ſhorte of the condition of my liking: till at length in the midſt of this muſe, I mette in my mynde with two ſuche Minions, as in my conceipt were the onely Paragons of the reſt: the one gallant and gorgeous gar<g ref="char:EOLhyphen"/>niſhed with golde and ſiluer, bedect with
+<pb facs="tcp:181118:9"/> iewelles, ſole Ladie and gouerneſſe of all the riche Mynes and Mineralles that are in the bowelles of the yearth: the other ſweete and odoriferous, adorned with flo<g ref="char:EOLhyphen"/>wers &amp; hearbes, beautified with delicate Spices, ſole Ladie and regent of all the pleaſant thinges that growe vpon the face of the yearth. Theſe I vowed to ſerue and to honour, euen to the loſſe of life and lim: neither haue I greatly broken promiſe with the<g ref="char:cmbAbbrStroke">̄</g>, though they haue not kept touch with me. Goodly and many golden Moun<g ref="char:EOLhyphen"/>taines they promiſed me, mary hitherto haue ſcantly performed any leaden Mole<g ref="char:EOLhyphen"/>hilles. But howſoeuer the bargaine ſtande betweene them and me, I am neither diſ<g ref="char:EOLhyphen"/>poſed to accuſe them, nor to excuſe my ſelf. We agreed vpon wages, and I weare their liueries: their cogniſance ſuch as it is, I beare wheare I am not aſhamed to ſhowe it: diuers and ſondrie their affaires haue thei employed me in, in the whiche I haue faithfully, painfully, and chargeably
+<pb facs="tcp:181118:9"/> applied my ſelf, &amp; haue attained by their inſtructions (to myne owne destruction almoſte) many their hidden ſecretes as well in Metalles, and Mineralles, as in Hearbes and Spices: parte wherof I haue diligently collected together, and for non paiment of my boordwages at their hands am forced to ſet them with the reſidewe of my skill to ſale, with offer to thee (good Reader) of preferment to the beſt thinges I haue: yet at a far eaſier price then they coſt me, beyng no leſſe my <hi>Su<g ref="char:cmbAbbrStroke">̄</g>ma Summa<g ref="char:EOLhyphen"/>rum</hi> caſt vp, and the foote of my accompt ſet doune, then the waſtyng out of my for<g ref="char:EOLhyphen"/>mer health, and the wearyng of the little wealth I had. So that what experiences ſoeuer I haue digged out of harde ſtones, blowne out from hot fire, raked out from foule aſhes, with greate coſt and greater trauaile, that haſt thou heare in my booke to ſee, and in my ſhop to vſe with greate eaſe at thy commaundement.</p>
+                  <closer>
+                     <signed>Ihon Hester.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="recipes">
+                  <pb facs="tcp:181118:10"/>
+                  <pb facs="tcp:181118:10"/>
+                  <head>
+                     <hi>A TRVE AND perfect Order to make <hi>Oyles out of al maner of Gummes,</hi>
+                     </hi> Spices, Seedes, Rootes, and Hearbes. Whereunto is added ſome of their vertues gathered out of ſondrie Auctors.</head>
+                  <div type="recipe">
+                     <head>To make Oyle of Masticke.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake the pureſt <hi>Ma<g ref="char:EOLhyphen"/>ſtick</hi> that maie be got whiche is not mixed with <hi>Sa<g ref="char:cmbAbbrStroke">̄</g>drake</hi> or ſuch like, &amp; beate it to pou<g ref="char:EOLhyphen"/>der, then put it into a glaſſe with a long necke, and put therein as much pure <hi>Aqua vitae</hi> as will couer it three fingers high, and the<g ref="char:cmbAbbrStroke">̄</g> ſtop it cloſe that it take no ayre, then ſet it in warme Horſedoung, or in a ſofte <hi>Bal<g ref="char:EOLhyphen"/>neo,</hi> vntill it be diſſolued: then powre it into a glaſſe, and put therein aſmuche Wine as you ſhall thinke good, and diſtill it with a heade, and receiuer in ſande, with a ſmall fire, and you ſhall receiue both oyle and wa<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:181118:11"/> together, the whiche you ſhall ſeparate one from another. Then increaſe your fire, and there will come foorthe another oyle whiche ſmelleth ſomewhat of the fire, and is beſte to bee vſed outwardly. Ye maie re<g ref="char:EOLhyphen"/>ctifie it againe with a ſmall fire, and ſo it will come ſweete.</p>
+                     <p>The vertues of this oyle. It is excellent againſt all colde diſeaſes of the Mawe: It comforteth the Liuer and the Lites, and all other inwarde partes of the bodie. Beyng drounken it helpeth choſe that vomit or ſpit blood. It conſumeth and breaketh all in<g ref="char:EOLhyphen"/>warde ſores. This oyle being anoynted on the bellie it ſtoppeth the Flixe, it ſtoppeth wome<g ref="char:cmbAbbrStroke">̄</g>s tearmes, it is alſo good for the mo<g ref="char:EOLhyphen"/>ther that is fallen doune, if you anoynte it therewith, and the vnderparte of the bellie. It is good for young children whoſe arſe gutte commeth foorthe, if you annoynte it therewith, and put it vp againe. It is alſo good for thoſe that are burſt if you anoynte them therwith, and let them weare a truſſe fitte for that purpoſe. It helpeth freſhe woundes very quicky if you annointe them therewith, and laie thereon a clothe weate
+<pb facs="tcp:181118:11"/> in the ſame. It faſteneth the teethe if you annoynte the gummes therewith. It com<g ref="char:EOLhyphen"/>forceth a weake ſtomacke and cauſeth good diſgeſtion if you annoynte it therewith.</p>
+                     <p>This Oyle hath all the vertues of <hi>Ma<g ref="char:EOLhyphen"/>ſticke,</hi> but it is an hundreth tymes of more force.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>¶ To make Oyle of Mirra.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake pure <hi>Mirra</hi> that is new and fatte, ſixe ounces and putte it into a glaſſe with a lo<g ref="char:cmbAbbrStroke">̄</g>g necke, and put thereon twelue ounces of pure rectified <hi>Aqua vitae,</hi> then lute the glaſſe faſt, and ſet it in Horſe<g ref="char:EOLhyphen"/>dung vntill it bee diſſolued. Then powre it into an Vrinall with a head and a receiuer, and diſtill awaie the <hi>Aqua vitae</hi> in <hi>Balneo,</hi> with a ſofte fire, and the Oyle will remaine in the bottome, the whiche ſtraine through a fine clothe, and keepe it in a glaſſe. His vertues are theſe.</p>
+                     <p>This Oyle by his naturall vertue pre<g ref="char:EOLhyphen"/>ſerueth all thynges from putrifaction that
+<pb facs="tcp:181118:12"/> is annoynted therewith: Likewiſe the face and handes beyng annoynted therewith, it preſerueth them in youthfull ſtate, a long tyme. It helpeth all ſtinkyng ſores and woundes quickly: It helpeth paines of the eares, if it be put therein. It preſerueth the ſight of the eyes, if you putte one or twoo droppes therein. It helpeth al paines of the Moother if it be annoynted therewith. It ſtaieth the heare from fallyng. If any bee troubled with a Feuer, lette hym annoynte his whole bodie therewith, and laie hym doune to ſweate. This Oyle drieth and conſumeth all accidentes after birthe. Be<g ref="char:EOLhyphen"/>yng dronke it maketh a ſweete breath, and helpeth the cough, it is good againſt ſhorte winde: it helpeth the Stitche in the ſide if you drinke thereof one dram. It ſtoppeth the fluxe of the bellie. It maketh a cleane voyce: The armepittes beyng annoynted therewith, it taketh awaie the ſtinche from thoſe partes. If ye mixe it with Wine and waſhe the mouth therewith, it will comfort the gummes and faſten the teethe. It is al<g ref="char:EOLhyphen"/>ſo good for woundes in the heade.</p>
+                     <p>If thou wilte vſe this Oyle to preſerue
+<pb facs="tcp:181118:12"/> any parte, you ſhall vſe it in this order, firſt make a bathe with ſome ſweete hearbes, and then holde that parte the which you wil preſerue ouer the fume, that the powres maie open, then drie it with a liunen clothe, and then annoynte it with this Oyle and chafe it in: that being doen, if there remaine any yellowneſſe of the Oyle, ye maie waſhe it awaie with white Wine. This Oyle would bee occupied when you are in the Stue or Hothouſe.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>¶ To make Oyle of Storax liquida.</head>
+                     <p>TAke the pureſt <hi>Storax</hi> that you can gette, and put it into a glaſſe with a long necke, &amp; ſet it in horſedunge for a moneth, then take it forthe and diſtill it in an Vrinall that hath a wide mouthe, in ſande, with a gentle fire, and you ſhall haue bothe oyle and water, the whiche you ſhall ſeparate, and keepe to thy vſe.</p>
+                     <p>
+                        <hi>Rifius</hi> writeth in his greate booke of di<g ref="char:EOLhyphen"/>ſtillations, that this oyle hath the ſame ver<g ref="char:EOLhyphen"/>tues that the Oyle of <hi>Mirra</hi> hath: but that it is a little more hotter and pearſyng.</p>
+                  </div>
+                  <div type="recipe">
+                     <pb facs="tcp:181118:13"/>
+                     <head>To make Oyle of Storax Calamite.</head>
+                     <p>THis Oyle maie bee made diuerſe waies, of the whiche I will ſhewe you the beſte. Take the pureſte <hi>Storax</hi> that you can finde, and beate it into pouder, then put it into a long necked glaſſe, &amp; put thereon pure rectified <hi>Aqua vitae,</hi> and lute the glaſſe, then ſette it in warme dounge, or in a ſofte <hi>Balneo</hi> a monethe. Then diſtill it in Sande with a ſmall fire, and thou ſhalte haue bothe oyle and water, the whiche you ſhall ſeparate. You ſhall vnderſtande, that towardes the ende of the diſtillation, there will aſcende a certaine matter like <hi>Manna,</hi> the whiche is pleaſaunt.</p>
+                     <p>The vertues of this Oyle. Three or fo<g ref="char:EOLhyphen"/>wer droppes beeyng drunke, it comforteth the breaſte and lunges, and all inward par<g ref="char:EOLhyphen"/>tes: it helpeth the paines of the Mother if it be drunke, and alſo annoynte thoſe partes therewith. It ſtoppeth the rewme that fal<g ref="char:EOLhyphen"/>leth to the breaſte and necke: This beeyng drunke, it maketh a manne merrie, and of
+<pb facs="tcp:181118:13"/> light courage, but beware you take not to muche. If you put twoo or three droppes into the eares, it taketh awaie the ſyngyng in them.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Beniamin.</head>
+                     <p>THis is made as you made the oile of <hi>Storax Calamite,</hi> and is onely vſed in perfumyng: Some diſtill this <hi>Beniamine</hi> with Roſe water but I thinke it will not be ſo perfect in ſmel nor ſo eaſily doen.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Galbanum.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake the pureſt <hi>Galbanum</hi> that thou canſt gette, and put it into a glaſſe, cloſe luted: then ſett it in <hi>Balneo Mariae</hi> vntill it bee diſſolued, then diſtill it with a ſofte fire, and then will come forth a faire yellow oyle, the<g ref="char:cmbAbbrStroke">̄</g> increaſe the fire, and then will come forthe a red ſtinkyng oyle, the whiche ye ſhall ſepa<g ref="char:EOLhyphen"/>rate.</p>
+                     <p>This oyle being dronke, is good againſt an olde cough, and for ſuche as are ſhorte winded, and can not eaſily drawe their
+<pb facs="tcp:181118:14"/> breathe, but are alwaies pantyng and brea<g ref="char:EOLhyphen"/>thyng. It is alſo verie good for ſuche as are broken, and bruſed within, and againſt crampes, and ſhrinkyng of ſinowes. This oyle beeyng dronke in wine with Oyle of <hi>Mirra,</hi> is good againſte all venome dron<g ref="char:EOLhyphen"/>ken, or ſhotte into the bodie with venemous dartes, or arrowes. Beeyng taken in the ſame order, it prouoketh womens termes, and deliuereth the dead childe. It hath the ſame vertue, if a perfume thereof be recei<g ref="char:EOLhyphen"/>ued in the ſecrete partes. This perfume dooeth alſo helpe women that are greeued with the riſyng, or ſtranglyng of the Mo<g ref="char:EOLhyphen"/>ther, and them that haue the fallyng ſicke<g ref="char:EOLhyphen"/>neſſe, and beeyng laied to the nauell, it cau<g ref="char:EOLhyphen"/>ſeth the <hi>Matrix</hi> or mother, that is remo<g ref="char:EOLhyphen"/>ued from his naturall place, to ſettle again. This Oyle dooeth mollifie and ſoften, and draweth forth thorns, ſplinteres, or ſhiuers, and cold humours, beeyng mixed with any conuenient vnguent. It is good to annoint the ſide againſt the ſtoppyng and hardneſſe of the Milte. The perfume or ſent of this Oyle, driueth awaie Serpentes from the place where it is burned: and no venemous
+<pb facs="tcp:181118:14"/> beaſtes haue power to hurte ſuche, as bee annointed with the oyle of <hi>Galbanum,</hi> and if ye mixe this oyle with the roote of <hi>An<g ref="char:EOLhyphen"/>gelica,</hi> or the ſeede or roote of <hi>Spondilium,</hi> and touch any Serpent or venemous beaſt therewith, it cauſeth them to dye.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Sagapenum.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake this Gumme and diſſolue it in ſtrong wine, in <hi>Balneo Mariae,</hi> and then diſtill it in Sande with a gentle fire.</p>
+                     <p>This Oile is good for the ſtitche in the ſide: It taketh awaie the cough that hath continued long: It helpeth the ſwellyng of the breaſt, whereby the breathe is ſtopped. It is very good againſt the cra<g ref="char:cmbAbbrStroke">̄</g>pe: It war<g ref="char:EOLhyphen"/>meth the ioyntes, and helpeth the paines of the hippes, and all ſuche like diſeaſes com<g ref="char:EOLhyphen"/>myng of cold. It is good for women that haue greate paine in their childbedde, if you annoint the noſethrelles therewith: For it driueth for the bothe the quicke and the dead fruite quickly: beeyng drunke with wine it helpeth againſt poyſon, and is alſo good a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:181118:15"/> the bityng of an Adder: beyng putte into thee eye it taketh awaie ſpottes: You ſhal note, that women with child muſt take greate heede of this Oyle.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Opoponax.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>His is made as is aforeſaied, and his vertues are theſe.</p>
+                     <p>If you drinke three or fower droppes with Wine, it helpeth the Cough and all impedimentes of the Milte. It hel<g ref="char:EOLhyphen"/>peth alſo all impedimentes of the Blather, and clenſeth it of all ſcabbes and ſores: It helpeth the Stitche in the ſide. It cauſeth ſpeedie deliuerie in women with childe. It helpeth againſt winde in the Matrixe, and diſſolueth the hardneſſe of thoſe partes, and cauſeth the paine to ceaſe.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Euphorbium.</head>
+                     <p>THis is made as is ſaied afore, and his vertues are theſe.</p>
+                     <p>Ye ſhall note that this Oyle is not to bee occupied inwardly, by reaſon of
+<pb facs="tcp:181118:15"/> his greate heate: excepte it bee mixed with ſome other thyng, as if it bee mixed with Honnie it purgeth the bellie marueiloſly. It helpeth thoſe that are troubled with ob<g ref="char:EOLhyphen"/>liuiouſneſſe, if ye annoynte the partes ther<g ref="char:EOLhyphen"/>with: It draweth forthe Thornes and ſuch like out of the fleſhe: it helpeth the bityng of an Adder: It is alſo good for ſtifneſſe of the ioyntes commyng of colde, if ye annoynte the partes therewith.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Ambre or Succinum.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake <hi>Ambre</hi> and beate it to pouder, &amp; put it into a glaſſe with a heade and a receiuer, and diſtill it in Sande with a gentle fire, and there will come forth both Oyle and water, the which ye ſhall ſeparate one from another.</p>
+                     <p>This Oyle beyng perfectly diſtilled, is good againſt paines of the heade, and reſo<g ref="char:EOLhyphen"/>lution of ſinnewes, and againſt ſwimmyng in the heade, and fallyng ſickneſſe. If ye drinke thereof thrée or fower droppes in the
+<pb facs="tcp:181118:16"/> mornyng with <hi>Pionie</hi> water, it preſerueth a manne from all poyſones and peſtiferous ayres, if ye annoynte the noſtreilles there<g ref="char:EOLhyphen"/>with, or put it into ſome medicine fitte for that purpoſe. It is excellente againſt di<g ref="char:EOLhyphen"/>ſeaſes of the Blather and Raines, and dri<g ref="char:EOLhyphen"/>ueth forth the Stone, and prouoketh vrine, if ye drinke it with Malmeſie, or Parcelie water, or ſuche like. It helpeth the Collike and chokyng of the Matrixe, if you anoynte the partes therewith. It driueth forthe the fruite, and cauſeth a woman to bée faire de<g ref="char:EOLhyphen"/>liuered, if ſhe drinke thrée or fower droppes, it is good againſt all fluxes of the heade.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Amoniacum.</head>
+                     <p>TAke this Gumme and put it into a glaſſe, cloſe luted: and ſette it in warme dunge, or in <hi>Balneo Ma<g ref="char:EOLhyphen"/>riae,</hi> vntill it bee diſſolued, then diſ<g ref="char:EOLhyphen"/>till it in Sande with a head and a receiuer, and thou ſhalte haue bothe oyle and water, the whiche ye ſhall ſeparate one from an o<g ref="char:EOLhyphen"/>ther: ye ſhall vnderſtande that there will come foorthe more water then oyle, as I
+<pb facs="tcp:181118:16"/> haue proued many tymes.</p>
+                     <p>This Oyle helpeth the cough comming of moyſture: it purgeth the breaſte, and hel<g ref="char:EOLhyphen"/>peth Vlcers in that place, three or fower droppes being taken in an Egge: it helpeth paines in the ſide, if ye annoynte it there<g ref="char:EOLhyphen"/>with. It diſſolueth all hardneſſe and ſwel<g ref="char:EOLhyphen"/>lynges, and taketh awaie the paines of the goute. If ye mixe this oyle with as muche Oyle of <hi>Galbanum,</hi> and a very little Oyle of Wormwood, and annoynte the Milte, it taketh awaie all the paines: beeyng mixed with Oyle of Wormwood, and annoynted in the Nauill it killeth wormes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Sarcocolla.</head>
+                     <p>THis is an excellent <hi>Balſame</hi> againſt all woundes, and filleth them with fleſhe: it purgeth all olde ſores, with out paine and ſmarte, it breaketh hard Im<g ref="char:EOLhyphen"/>poſtumes, it helpeth all runnyng eyes, if you vſe it in a Collirie it helpeth wheales in the eye liddes: Beyng drunke with wine it helpeth the rewine that falleth to the teeth, and for that cauſe it is vſed of thoſe that are
+<pb facs="tcp:181118:17"/> troubled with aboundaunce of flegmatike humors: You ſhall note that this Oyle is ſpecially vſed in freſhe woundes and olde ſores. This oyle is made as you made the oyle of <hi>Serapynum.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Castoreum.</head>
+                     <p>TAke the fatteſt that thou canſt gette and ſtampe it well, then put it into a glaſſe, and ſet it to putrifie in <hi>Bal<g ref="char:EOLhyphen"/>neo Mariae</hi> fiue or ſixe daies, then diſtill it with a ſofte fire, and thou ſhalte haue an ex<g ref="char:EOLhyphen"/>cellent Olye.</p>
+                     <p>This is good againſt all colde Crampes and Palſies, beyng mixed with Rewe and Vineger: and putte into the noſethrilles it comforteth the braine, and taketh awaie paines of the head. Beyng anoynted on the necke and alſo drunke with Wine, it hel<g ref="char:EOLhyphen"/>peth muche thoſe that are troubles with the fallyng ſickneſſe: It helpeth convulſions and paines of the ſinewes, if you annoynte them therwith: beyng drunke with Pepper and Hidromell, it prouoketh womens ter<g ref="char:EOLhyphen"/>mes and alſo the fruite, it warmeth colde
+<pb facs="tcp:181118:17"/> places, it is alſo excellent againſt Appople<g ref="char:EOLhyphen"/>xia, it helpeth thoſe that are deaffe, it moueth venery. It helpeth the Collike, and the ſuf<g ref="char:EOLhyphen"/>focation of the Matrixe, and ſtrengtheneth the naturall partes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Frankencenſe.</head>
+                     <p>TAke <hi>Frankencenſe</hi> as muche as you will, &amp; put it into a retorte of glaſſe, well luted: And put therevnto for e<g ref="char:EOLhyphen"/>uery pou<g ref="char:cmbAbbrStroke">̄</g>de of ſtuffe, fower ounces of cleane ſande, and then diſtill it with a gentle fire, vntill all the ſubſtaunce be come forthe, and thou ſhalte haue bothe water and Oyle, the whiche ye muſt ſeparate.</p>
+                     <p>The water is good againſt winde in the ſtomacke if it bee drunke: it is alſo good for choppes in the handes and feete, if ye waſhe them therewith, and annoynte them with the oyle againſt the fire, and ſtraight waies put on a paire of gloues, and ſo doing thrée tymes, thei ſhalbe hole.</p>
+                     <p>This Oyle helpeth ſimple woundes in three or fower daies, if ye annoynte them therewith, and laie thereon a clothe weate
+<gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:18"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:18"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:19"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:19"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:20"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:20"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:21"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:181118:21"/>
+                        <pb facs="tcp:181118:22"/> in the ſame, it preſerueth all fleſhe from pu<g ref="char:EOLhyphen"/>trifiyng and alteration, and taketh awaie the paine: It helpeth all aches and bruſes if ye anoynte them therewith, Ye ſhal note that you muſt vſe no tente where you occu<g ref="char:EOLhyphen"/>pie this oyle, but waſhe the wounde cleane and ioyne it or ſtitche it cloſe together, and them laie thereon a clothe weate in theſame, for if ye fall a tentyng, ye make worke for the Surgeon.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Turpentine.</head>
+                     <p>TAke pure and cleane <hi>Turpentine</hi> as muche as you will, and put it into a glaſſe, ſo that three parts be emptie, and putte therein a certaine quantitie of ſande, as muche as you ſhall thinke good, then diſtill it in ſande with a ſofte fire, and there will come forthe fewer licours: The one is a cleare water, the other a cleare oyle, the th<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>de a yellowe oyle, the fowerth a dedde and ſtinkyng, the whiche a number of Poticaries doe ſell in ſteade of <hi>Baulme:</hi> Ye ſhall note that the firſte Oyle is hot, the ſecond hotter, the thirde hotteſt of all, and
+<pb facs="tcp:181118:22"/> not ſo good to occupie inwardly, as the firſt.</p>
+                     <p>
+                        <hi>Falopius</hi> in his booke of ſecretes wri<g ref="char:EOLhyphen"/>teth, that this oyle wil helpe freſh woundes in fower and twentie houres, if ye anoynte them therewith, and laie thereon a cloathe weate in the ſame. It is good againts con<g ref="char:EOLhyphen"/>traction of ſinnewes commyng of colde: it prouoketh Vrine, if ye drinke one dram of the firſte Oyle in white Wine: it breaketh winde in the bodie, and diſſolueth the Plu<g ref="char:EOLhyphen"/>riſie and Peſtilent Feuer: it prouoketh an appetite if ye annoynte the ſtomacke ther<g ref="char:EOLhyphen"/>with. It helpeth againſt colde deſeaſes of the Mawe, and helpeth a ſtinckyng breath, and the cough.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Waxe.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake new yellowe Waxe aſmuch as you ſhall think good, and melt it on the fire, then powre it into ſweete Wine, and wring it betweene your handes, then melte it againe, and powre it into Wine againe, and this you ſhall doe fiue or ſixe tymes at the leaſte, and euery tyme you muſt haue freſhe Wine, then at
+<pb facs="tcp:181118:23"/> the laſte you ſhall putte it into a retorie of glaſſe, well luted with his receiuer, and di<g ref="char:EOLhyphen"/>ſtill it in Sande, and there will come forthe a faire yellowe Oyle, the whiche will con<g ref="char:EOLhyphen"/>gele like pappe when it is colde. Ye ſhall vnderſtande that for euery pounde of waxe, ye ſhall putte thereto fower ounces of the pouder of brickes into the glaſſe.</p>
+                     <p>
+                        <hi>Raymonde Lullie</hi> greatly commendeth this oyle, approuyng it rather to be a cele<g ref="char:EOLhyphen"/>ſtiall or deuine medicine, then humaine; for becauſe this in woundes woorketh moſte miraculuſly, which for his maruelouſe com<g ref="char:EOLhyphen"/>moditie, is not ſo wel to be vſed of the com<g ref="char:EOLhyphen"/>mon Chirurgion: Becauſe this preciouſe oyle healeth a wounde be the ſame neuer ſo bigge or wide, beeyng afore wide ſtitched vp, in the ſpace of aleuen daies or twelue at the moſt: But thoſe are ſmall this oyle healeth in three or fower daies, by annoyn<g ref="char:EOLhyphen"/>tyng onely the wounde therewith, and lai<g ref="char:EOLhyphen"/>yng thereon a cloth weate in the ſame.</p>
+                     <p>Alſo for inwarde diſeaſes this oyle wor<g ref="char:EOLhyphen"/>keth miracles: For if you giue one dram at a tyme to drinke with white wine, it ſtaieth the ſheadyng of the heare, either on the heat
+<pb facs="tcp:181118:23"/> or bearde, by annoyntyng the place there<g ref="char:EOLhyphen"/>with: Moreouer it is excellent in prouoking of vrine which is ſtopped: it helpeth ſtitches and paines in the loynes, if you drinke the foreſaied quantitie with white Wine: It helpeth the colde goute or Sciatica, and all other greefes commyng of colde. Ye ſhall vnderſtande, that if you rectifie this oyle it will congele no more, but then it will be to hotte to take inwardlie, for it pearceth mer<g ref="char:EOLhyphen"/>uelouſly, and is good to bee mixed with o<g ref="char:EOLhyphen"/>ther medicines to cauſe them to pearce the better.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Quinteſſence of Honey.</head>
+                     <p>
+                        <seg rend="decorInit">Y</seg>Ou ſhall vnderſtande that Ho<g ref="char:EOLhyphen"/>ney is licoure rather diuine then humane, becauſe it falleth from heauen vpon the hearbes, and is ſuche a ſwéete thing, that the like can not bee founde vppon the yearth. And this <hi>Raimonde Lullie</hi> calleth the flower of flo<g ref="char:EOLhyphen"/>wers, becauſe Bees gather it vpon the flo<g ref="char:EOLhyphen"/>wers in the fielde. And truely it is a moſte ſtraunge thyng if wee would conſider well
+<pb facs="tcp:181118:24"/> the qualitie of honey and waxe: and there<g ref="char:EOLhyphen"/>fore the wiſe <hi>Baruch Arabico</hi> in the <hi>Aca<g ref="char:EOLhyphen"/>demie</hi> of <hi>Auicene</hi> did wright this ſentence, <hi>Mel de<g ref="char:cmbAbbrStroke">̄</g>tro, &amp; olio di fuori,</hi> ſatiſfiyng vs by this, that honey and oyle were the firſt two licours in the worlde. And truely it is ſo if we conſider well, as it niaie well be proued by holie Scripture.</p>
+                     <p>The order to make this <hi>Quinteſſence</hi> is thus. Take twoo pounde of perfect pure Honey, and put it into a greate glaſſe, that fower partes of fiue maie remaine emptie: Lute it well with a head and receiuer, and giue it fire vntill there appeare certaine white fumes, whiche you ſhall turne into water with weatyng of clothes in cold wa<g ref="char:EOLhyphen"/>ter, and laiyng them on the receiuer, and head: and thei will turne into water of a red colour like blood. When it is all diſtilled, keepe the glaſſe cloſe ſhut, and let it ſtande till it bee cleare, and in the colour of a Ru<g ref="char:EOLhyphen"/>bine. Then diſtill it in <hi>Balneo Mariae</hi> at leaſte ſixe or ſeauen tymes, and ſo it will loſe his red colour, and remaine in the color of golde hauyng a greate ſmell, and ſo plea<g ref="char:EOLhyphen"/>ſaunt that the like can not bee founde in the
+<pb facs="tcp:181118:24"/> worlde.</p>
+                     <p>This <hi>Quinteſſence</hi> diſſolueth golde, and maketh it potable, and like wiſe any ſorce of Iewel that is putte therein. It is of ſuche vertue that if any bee a diyng, and drinke two or three drammes thereof, preſently he will recouer, as the <hi>Quinteſſence</hi> of Wine will doe. If you waſhe any wounde there<g ref="char:EOLhyphen"/>with, or other ſore, it will heale quickly. It is alſo good againſt the Cough, Cattarre, and paines of the Milte, and many other di<g ref="char:EOLhyphen"/>ſeaſes whiche I will not ſpeake of: for but fewe, and thei were hardly, wyll beleeue the greate vertue and operation thereof.</p>
+                     <p>I gaue this ſixe and fortie daies vnto one that had the Palſie, and he was holpen. It helpeth alſo the fallyng ſickneſſe, and preſerueth the bodie from putrefaction, ſo that by theſe you maie perceiue that it is a celeſtiall medicine. If therefore any ver<g ref="char:EOLhyphen"/>tuouſe man would take a little paine, in the experience hereof, he ſhall doe wonder<g ref="char:EOLhyphen"/>full thinges, as many tymes I haue doen, ſo that the people deemed that I wrought by Inchauntment, when as in deede I did it by vertue of this licour, miniſtryng the
+<pb facs="tcp:181118:25"/> ſame ſo priuiely that thei could not ſee it, which fell out to my greate honour, and be<g ref="char:EOLhyphen"/>nefite of the ſicke, as you ſhall reade in my <hi>Theſauro della vita humana:</hi> And there<g ref="char:EOLhyphen"/>fore I would wiſh them that profeſſe Phi<g ref="char:EOLhyphen"/>ſicke, and Chirurgerie to vſe ſuche experi<g ref="char:EOLhyphen"/>ence, whereby commeth honor and gaine to the Phiſition, and profite to the patient.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Lignum vitae or Guaicum.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake the freſheſt Wood that thou canſt get, and make it in pouder, then putte it into a veſſell of glaſſe well luted, and ſet it in horſe dounge, or in <hi>Balneo</hi> to diſgeſt, then take it forthe and di<g ref="char:EOLhyphen"/>ſtill it with a gentle fire, as thou wouldeſt diſtill, Nutmegges, and thou ſhalte haue both Oyle and water, the whiche thou ſhalt ſeparate by them ſelues: then take the feres and put it into a newe earthen pot, and ſet it in a furneſſe of reuerberatione, vntill it be burnt into aſhes, then take that aſhes and make thereof a lye with Fumetarie water, and when thou ſeſte that the aſhes will
+<pb facs="tcp:181118:25"/> make the water no more ſharpe, caſt them awaie, and let the water ſettle cleare, then vapoure awaie the water with a ſofte fire, and in the bottome will remaine a ſalte, the whiche you ſhall diſſolue and congele vntill it be cleare, and faire, as <hi>Sal atron</hi> or <hi>En<g ref="char:EOLhyphen"/>tallie,</hi> then keepe it to thy vſe: the water is to drinke with Wine.</p>
+                     <p>The Oyle is to annoynte the ſores or a<g ref="char:EOLhyphen"/>ches, and the ſalte is to pourge, and the or<g ref="char:EOLhyphen"/>der to vſe it is thus: Either in the Poxe, the Goute, or the Palſie.</p>
+                     <p>Firſt you ſhall pourge the pacient well with this. Take of the ſalte half a ſcruple, Theriaca Alexandria two drammes, mixe them and giue them thereof half a ſcruple at a tyme: You ſhall giue this three or fo<g ref="char:EOLhyphen"/>wer tymes, according to the infection of the diſeaſe, for in this ſalte is vertue to pourge all humours that cauſeth the Goute, the Palſie, and the Poxe, and ſuch like, and the like hath not been founde, neither vomi<g ref="char:EOLhyphen"/>tyng or purgyng. Then when the pacient is well purged, if the pacient haue any ſo<g ref="char:EOLhyphen"/>res or holes, you ſhall mundifie them with this ſalte, and when thei are mundified, you
+<pb facs="tcp:181118:26"/> ſhall dreſſe them twiſe a daie with the oyle, vntill thei be hole, but if the pacient haue no holes, you ſhall annoynt thoſe places where he fealeth ache or greefe: Alſo euery mor<g ref="char:EOLhyphen"/>nyng early in his bed, and at night an houre after ſupper, you ſhall giue hym a good ſpoonefull of the water with remmiſhe wine to drinke, and let hym ſweate thereon well, alſo he ſhall vſe this with his meate if he will. Ye ſhall vnderſtand that the cure lieth not in meate nor drinke, but in the medi<g ref="char:EOLhyphen"/>cine, and therefore keepe hym not to hun<g ref="char:EOLhyphen"/>grie: but let hym haue good meate and well ſeaſoned with ſalt, and let him drinke wine, and ſo vſing this order, thou ſhalte bee able to helpe the Goute, Poxe, or Palſie.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Butter.</head>
+                     <p>TAke newe freſhe Butter as muche as you will, and put it into a retorte of glaſſe, well luted: and there will come forthe three licours, the whiche thou muſt ſeparate.</p>
+                     <p>This Oyle doeth pearce marueilouſly, and taketh awaie the paines of the Goute,
+<pb facs="tcp:181118:26"/> if you annoynte them therewith: if you an<g ref="char:EOLhyphen"/>noynte the handes and face therewith, it will preſerue them faire: it is alſo good for thoſe that are troubled with a Cattarre, if you giue them thereof an ounce faſtyng, for preſently it ariueth to the ſtomacke and mollifieth the Cattarre, in ſuche order as you ſhall ſpitte it forthe at the mouthe.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Egges.</head>
+                     <p>TAke Egges and ſeathe them harde, then take forthe the yelkes and ſta<g ref="char:cmbAbbrStroke">̄</g>pe them in a morter, then put them in a friyng panne, and ſette ouer the fire, and continually ſtirre it vntill you ſee it tourne to oyle, then take it forthe, and put it into a canuas bagge and preſſe it forth. This oyle helpeth moundes with greate ſpeede: It maketh y<hi rend="sup">e</hi> haire of the haed or bearde black: it taketh awaie the paines of the Emerods, it is excellent againſt burnyng with fire or ſcaldyng with mater: you ſhall vnderſtand this oyle maie be made very perfect by the arte of diſtillation without impreſſion, as I haue proued diuers tymes.</p>
+                  </div>
+               </div>
+               <div type="recipes">
+                  <pb facs="tcp:181118:27"/>
+                  <head>¶ <hi>Here beginneth the Order</hi> to make Oyles of all maner of Spices and Seede.</head>
+                  <div type="recipe">
+                     <head>To make Oyle of Synamon.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake Synamone as muche as you will, and ſtampe it groſlie: then put it into a glas with pure <hi>Aqua vitae,</hi> and ſo let it ſtand fiue or ſixe daies, then di<g ref="char:EOLhyphen"/>ſtill it with a ſmall fire, and there will come forthe bothe oyle and water, the which you ſhall ſeparate one from another, for the oyle will ſincke to the bottome: ſome vſe to di<g ref="char:EOLhyphen"/>ſtill this with Wine, and ſome with Roſe water.</p>
+                     <p>You ſhal vnderſtande that this oyle is of a maruelous nature, for it pearceth through fleſhe and bones, and is very hot and drie, and is good againſt all colde and moiſte di<g ref="char:EOLhyphen"/>ſeaſes, and in ſpeciall for the hart and head, in ſo muche that if a man did lie ſpeacheles, and could ſcant drawe his winde, it would preſently recouer hym againe, ſo that his
+<pb facs="tcp:181118:27"/> tyme bee not yet come: moſte miracolous to ſee: and to bee ſhorte, this oyle is of ſuch operation and vertue, that if a man drinke neuer ſo little, he ſhall feele the workyng in his fingers and toes with greate maruell, and therfore to be ſhort, it pearceth through the whole bodie, &amp; helpeth all diſeaſes that are come through colde and flegmatique matter. This oyle is hot and ſharpe: It di<g ref="char:EOLhyphen"/>geſteth and maketh thyne, &amp; driueth doune womens tearmes: It helpeth women that haue greate paines and ſmarte in their tra<g ref="char:EOLhyphen"/>uell, and bringeth forthe their fruite, if you giue the paciente a little of this oyle, with oyle of <hi>Mirra</hi> in Wine to drinke, and an<g ref="char:EOLhyphen"/>noynte the partes therwith. The face and handes beyng annoynted with this oyle, it driueth awaie the meſeles and ſpottes. It warmeth the breaſte, and helpeth the colde Cough: it conſumeth all colde ſtuxes that proceede from the braine and head, and cau<g ref="char:EOLhyphen"/>ſeth quiet ſleepe.</p>
+                     <p>This Oyle maie bee occupied in ſteade of the naturall Baulme for many diſeaſes: ye ſhall note that the water of Sinamone is alſo good againſt the aforeſaied diſeaſes,
+<pb facs="tcp:181118:28"/> but yet nothyng of ſo muche force as the Oyle, for one droppe of Oyle will do more, then fower ſpoonfulles of the water, there<g ref="char:EOLhyphen"/>fore thei would be vſed together.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Cloues.</head>
+                     <p>THis Oyle is made in this order. Take the beſte Cloues that thou canſt get, and beate them groſly, then put them into pure Wine in<g ref="char:EOLunhyphen"/>to a glaſſe, with a long necke cloſe luted, then ſet it in warme horſe dounge the ſpace of a moneth, then diſtill it in Sande with a ſofte fire, and thou ſhalte haue a faire Oyle, whiche will ſinke to the bottome, the which you ſhall ſeparate: and his vertues are theſe.</p>
+                     <p>It ſtrengtheneth the braine, heade, and harte, and reuiueth the ſpirites, it ſerueth againſt all colde diſeaſes, it conſumeth all euill fleme: Beyng out wardly applied, it hath greate vertue in healyng, and maie be occupied in ſteede of Baulme for woundes. One or two droppes taken in the mornyng with Wine helpeth a ſtinkyng breathe: It
+<pb facs="tcp:181118:28"/> maketh the harte merrie, and cleanſeth the filthineſſe thereof, and openeth the Liuer that is ſtopped: beyng putte into the eye it cleareth the ſight. It comforteth a cold ſto<g ref="char:EOLhyphen"/>macke, and cauſeth good digeſtion, it pur<g ref="char:EOLhyphen"/>geth Mellancollie: this oyle maie be made in <hi>Manus Christi</hi> with ſugar, and thei will haue the aforeſaied vertue and ſtrength.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Nutmegges.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>His Oyle is made as the Oyle of Cloues, and will ſwimme vppon the Wine: But if you diſtill this againe in <hi>Balneo,</hi> it will be moſte pure and ſuttle, and maie be kept an hundreth yeres in his perfect ſtrength and vertue.</p>
+                     <p>This Oyle beeyng dronke with Wine driueth doune womens tearmes, and alſo the quicke and the dead fruite: And there<g ref="char:EOLhyphen"/>fore women with childe ſhall not occupie this oyle, vntill ſuche tyme as thei be in tra<g ref="char:EOLhyphen"/>uell with childe, and then it cauſeth them to be faire deliuered without paine and daun<g ref="char:EOLhyphen"/>ger. Beyng dronke with wine it taketh a<g ref="char:EOLhyphen"/>waie all paines of the heade commyng of
+<pb facs="tcp:181118:29"/> It comforteth the Mawe, and ope<g ref="char:EOLhyphen"/>neth the Liuer, Milte and Kidnes, and ſuch like, it is excellent againſt beatyng of the harte, and faintneſſe and ſoundyng, if ye drinke thereof and annoynte the region of the harte therewith: It maketh good blood, and expelleth flegmatike and mellancollie humours, and maketh a man merrie: Be<g ref="char:EOLhyphen"/>yng vſed at night it taketh awaie al fancies and dreames: If any had a wounde, or had broken a ribbe within hym with a fall, lette hym drinke this oyle with any ſlight wou<g ref="char:cmbAbbrStroke">̄</g>d drinke, and it will helpe hym although he were almoſte deade: It is good in all filthie ſores the whiche are counted vncurable: it is alſo preciouſe for all colde diſeaſes of the ioyntes and ſinnewes: It maketh a ſweete breathe: if the ſplene doe ſwell, ye ſhall an<g ref="char:EOLhyphen"/>noynte therewith the lefte ſide: it helpeth all effectes in the blather if it be dronke.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Maſe.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>His Oyle is made as is a foreſaid, and is hotte in operation, it hath greate vertue againſt the Collike
+<pb facs="tcp:181118:29"/> which co<g ref="char:cmbAbbrStroke">̄</g>meth of cold cauſes or of a rewme, deſendyng from the heade: It comforteth the harte, the ſtomack, and the wombe, it is good in the ſtrangurie, and al cold deſeaſes: if ye drinke thereof three or fower droppes faſtyng with a ſpoonfull of wine or broath, or eate twoo or three <hi>Manus Christi</hi> made therewith.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Pepper.</head>
+                     <p>THis Oyle is diſtilled as is ſaied afore, and is very cleare and light, and his ver<g ref="char:EOLhyphen"/>tues are theſe.</p>
+                     <p>This Oyle hath more vertue then the Pepper hath in pearcyng, and ſpecially in the Collike, and other weake places filled with fleme, if you take thereof three or fo<g ref="char:EOLhyphen"/>wer droppes with one ſcruple of the ioyce of a Quince, two houres afore the fitte, af<g ref="char:EOLhyphen"/>ter the bodie is well pourged, and let blood, it ſtaieth alſo the ſhakyng at the firſt tyme, or els at the ſeconde, it taketh awaie the fit.</p>
+                     <p>Ye shall vnderſtand that this oyle is onely the ayrie parte, ſeparated from the o<g ref="char:EOLhyphen"/>ther Elementes. I ſawe once this Oyle
+<pb facs="tcp:181118:30"/> made of a Germaine, the whiche had the perfect taſte, ſauor, and ſmell, and was ſo hot on the tongue as oyle of <hi>Vitriall.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Saffron.</head>
+                     <p>TAke the beſt Saffron that thou canſt get, and put it into a glaſſe, and put thereon pure rectified <hi>Aqua vitae,</hi> then lute the glaſſe faſt, and ſet in warme horſe dunge a moneth: then diſtill it in <hi>Bal<g ref="char:EOLhyphen"/>neo Mariae</hi> with a ſofte fire, vntill all the <hi>Aqua vitae</hi> be come forthe: then take forth the Saffron and preſſe it in a preſſe, made for that purpoſe, within a ſtrong canuas bagge, and thou ſhalte haue bothe oyle and water, the whiche thou ſhalte diſgeſte fiue or ſixe daies, and then ſeparate them by art.</p>
+                     <p>If this Oyle bee dronke with Wine it maketh a man merrie, and to haue a faire couler: if ye annoynte the temples of a man that is ouer come with drinke it will helpe hym. This oyle being annoynted on <hi>Sainct Anthonies</hi> fire it quencheth it, and preſer<g ref="char:EOLhyphen"/>ueth the place: this oyle beyng mixed with womens milke ſtoppeth the running of the
+<pb facs="tcp:181118:30"/> eyes: Beyng annoynted on the harte it ma<g ref="char:EOLhyphen"/>keth it merrie. The head beyng annoynted with this oyle it prouoketh ſléepe, by reaſon whereof the auncient Doctors heretofore did vſe it to ſuche as were mad, annoynting the temples therewith: it clenſeth old ſores.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Anniſeede.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake as muche Anniſeede as thou wilte, and beate it groſly, then infuſe it in ſtrong Wine fower or fiue daies, and diſtill it in a Gourde with a head and receiuer, in ſande, and there will come forthe both oyle and water: the whiche thou ſhalte ſeparate.</p>
+                     <p>This Oyle beyng dronke with Wine in the mornyng faſtyng, maketh a man to haue a ſweete breathe, if ye put a little into the noſethrilles when you goe to bedde, and annoynte the temples therewith. It taketh awaie all paines co<g ref="char:cmbAbbrStroke">̄</g>myng of colde, and cau<g ref="char:EOLhyphen"/>ſeth the pacient to ſléepe quietly: It is good againſt winde in the guttes and ſtomacke, and cauſeth the paine to ceaſe, if ye drinke three or fower droppes and annoynte the
+<pb facs="tcp:181118:31"/> ſtomacke therewith: it breaketh alſo fleme and cauſeth it to come forthe at the mouth: It prouoketh venerous actes: and driueth forthe poyſon by ſweate: It is moſte excel<g ref="char:EOLhyphen"/>lent for thoſe that are ſhort winded, and can not fetch their breath but with great paine: It comforteth the breaſte and Lunges: It breaketh the ſtone in the raines and blader: it is good againſt the bloudie flixe and pil<g ref="char:EOLhyphen"/>les. If any cheſt be annoynted therewith, it will not ſuffer Mothes to breede therin.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Fennell Seede.</head>
+                     <p>THis is made as is aforeſaied, and his vertues are theſe. It is moſte excellent againſt all paines of the eyes, in ſo muche that if a manne viere almoſte blinde it would recouer his ſight againe, if he drinke thereof once a day, and drop one droppe into the eye mornyng and euenyng: It maketh a ſweete breath and comforteth the head of colde humours. It comforteth the Mawe, and openeth the Liuer and Milte that is ſtopped: It helpeth the Dropſie and yellow Iaundies of what
+<pb facs="tcp:181118:31"/> cauſe ſoeuer it be: In hott diſeaſes ye muſt occupie it with colde waters, and in colde diſeaſes with wine: <hi>Ex Philippos Herma<g ref="char:EOLhyphen"/>nos.</hi>
+                     </p>
+                     <p>This oyle as writeth <hi>Evonimus,</hi> brea<g ref="char:EOLhyphen"/>keth the ſtone in the raines, and prouoketh menſtrue and vrine: it comforteth the ſto<g ref="char:EOLhyphen"/>macke and breaketh winde, this Oyle maie be made in <hi>Manus Christi,</hi> with ſugar and is very pleaſant, and hath the ſelf ſame ver<g ref="char:EOLhyphen"/>tue.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Commin Seede.</head>
+                     <p>THis Oyle is made as is aforeſaied, and is good againſt woundes that pearce the Splene: It is alſo moſte excellent to ſcatter and breake all the win<g ref="char:EOLhyphen"/>dineſſe of the ſtomacke, the bellie, the bo<g ref="char:EOLhyphen"/>welles and Matrixe: alſo it is ſingular a<g ref="char:EOLhyphen"/>gainſt gryping tormentes, and knawinges or frettinges of the bellie, not onely to be v<g ref="char:EOLhyphen"/>ſed inwardly, but to be put into Gliſters, or to be laied to outwardly with barly meale.</p>
+                     <p>This Oyle beyng dronke with Wine, is good for thoſe that are hurt with any ve<g ref="char:EOLhyphen"/>nomous
+<pb facs="tcp:181118:32"/> Beaſtes: this oyle either eaten in <hi>Manus Christi,</hi> or dronke is very profita<g ref="char:EOLhyphen"/>ble for ſuche as haue the cough and haue ta<g ref="char:EOLhyphen"/>ken colde, and for thoſe whoſe breaſtes are charged or ſtopped. This Oyle beeyng to muche vſed, decaieth the naturall comple<g ref="char:EOLhyphen"/>xtion &amp; liuely colour, cauſing one to looke waime and pale.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Caraway Seede.</head>
+                     <p>THis Oyle is made in the aforeſaied order, and is very good and conue<g ref="char:EOLhyphen"/>nient for the ſtomacke, and for the mouthe: it helpeth diſgeſtion, and prouo<g ref="char:EOLhyphen"/>keth vrine: It ſwageth and diſſolueth all kinde of mindineſſe and blaſtynges of the inwarde partes. And to conclude it is aun<g ref="char:EOLhyphen"/>ſwerable to the oyle of Annis ſeede, in ver<g ref="char:EOLhyphen"/>tue and operation.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Dill Seede.</head>
+                     <p>THis Oyle is made in the aforeſaied order: This Oyle beyng eaten in <hi>Manus christi,</hi> or dronk with wine,
+<pb facs="tcp:181118:32"/> cauſeth women to haue greate plentie of milke. It driueth awaie ventoſite or windi<g ref="char:EOLhyphen"/>neſſe, and ſwageth the blaſtinges and gri<g ref="char:EOLhyphen"/>pyng torment of the bellie. It ſtaieth vomi<g ref="char:EOLhyphen"/>tyng and laſkes, and prouoketh vrine: It is very profitable againſt the ſuffocation or ſtranglyng of the Matrixe, if ye cauſe the woman to ſitt ouer the fume of it in a cloſe ſtoole, for that purpoſe this oyle beyng eate in <hi>Manus christi</hi> ſtaieth the yexe or hiquet.</p>
+                     <p>This Oyle doth heale hollowe &amp; moyſt vlcers, and eſpecially in the ſhare or priuie partes, this oyle doeth digeſt and reſolue and ſwage paine, and ripeneth all rawe and vnripe humours. This oyle may not be too muche vſed inwardly, for it diminiſheth the ſight and the ſeede of generation.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Percelie Seede.</head>
+                     <p>THis Oyle is made in the aforeſaied order, and his vertues is to open ob<g ref="char:EOLhyphen"/>ſtructions of the Liuer and Kindnes: it prouoketh menſtrue, if it be dronke with conuenient licours: it cauſeth a good appe<g ref="char:EOLhyphen"/>tite and diſgeſtion, and comforteth the ſto<g ref="char:EOLhyphen"/>macke:
+<pb facs="tcp:181118:33"/> It driueth forthe the ſtone and gra<g ref="char:EOLhyphen"/>uell and prouoketh vrine, and is a remedie againſt all poyſones: it driueth awaie all blaſtinges and windineſſe: it is alſo good againſt the cough if it be mixed with medi<g ref="char:EOLhyphen"/>cines made for that purpoſe.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Rewe or Herbegrace.</head>
+                     <p>THis Oyle is made of the ſeede of Rewe beyng putrified in Wine.</p>
+                     <p>
+                        <hi>Cardanus</hi> writeth that this oyle beyng perfectly made, is of greate vertue againſt poyſone beyng dronke with Wine, for it cauſeth the pacient to auoide it by vomitte, at the firſt tyme that he taketh it: and at the ſeconde tyme it expelleth the other euill hu<g ref="char:EOLhyphen"/>mours that are infected therewith: and at the thirde tyme it cureth the pacient &amp; ma<g ref="char:EOLhyphen"/>keth hym hole: and this is doen in three or fower daies: it helpeth alſo all diſeaſes of the eyes, of what cauſe ſoeuer it be, ſo that the apple of the eye bee not periſhed. The vſe of this oyle to the eye is to annoynte it therewith twiſe a daie, or waſhe the eye
+<pb facs="tcp:181118:33"/> with the water of Rewe, and droppe one or two droppes into the eye.</p>
+                     <p>This Oyle beyng dronke, ſuffereth no poyſon to remaine in manne that daie: if a man drinke thereof faſtyng whiche is ſore wounded, and that the other cure be had ac<g ref="char:EOLhyphen"/>cordingly he ſhall eaſily eſcape. This oyle beyng dronke taketh awaie the Goute and Dropſie ſprong of a colde cauſe: it reſtoreth al numbed members taken with the Palſie if you annoynte them therewith.</p>
+                     <p>
+                        <hi>Cardanus</hi> alſo affirmeth in his ſeconde booke <hi>De ſubtilitate,</hi> that there are cer<g ref="char:EOLhyphen"/>taine poyſones the whiche ſlaie with their onely touchyng, againſt which poyſon ſaith he, the beſte remedie is not to tarrie in any place vntill thy hande waxe hotte, but often bathe the partes with warme water, and annoynte them with Oyle of Rewe per<g ref="char:EOLhyphen"/>fectly diſtilled.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Iuie.</head>
+                     <p>THis Oyle is made as is aforeſaied, and is good againſt theſe diſeaſes followyng.</p>
+                     <pb facs="tcp:181118:34"/>
+                     <p>Againſt gripinges or winde in the guts: againſt <hi>Gonorheam</hi> and paines in the neck commyng of a Cattare: this oyle maie bee compared to Baulme, thrée or fower drops being dronk. It doth preuent the reſolution of ſinewes, the fallyng ſickneſſe, and other deſeaſes of the braine: It preſerueth the bo<g ref="char:EOLhyphen"/>die from all poyſone and peſtilent ayres, it comforteth a colde ſtomacke. It ſtaieth vo<g ref="char:EOLhyphen"/>mityng: it pourgeth the raines: it breaketh the ſtone, it prouoketh vrine: it helpeth the Collicke and paines of the guttes: It hel<g ref="char:EOLhyphen"/>peth paines in the ſtomacke and Lunges: it is good againſt the Dropſie and water be<g ref="char:EOLhyphen"/>twene the ſkinne and the fleſhe: It killeth wormes: to be ſhorte it helpeth all ſicke me<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>bers: by the vertue of his pearſing beeyng anoynted outwardly, it ſtaieth conſumpti<g ref="char:EOLhyphen"/>ons: it helpeth ſcabbes and olde euill vlcers: it helpeth paines if the hippes, the Goute and Collicke: it helpeth the chappes in the handes and feete.</p>
+                     <p>
+                        <hi>Philippus harmanus</hi> writeth that if this oyle be rectified againe, it wilbe a hundreth tymes more purer and more pearſing, for I haue ſeene thoſe that could not make wa<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:181118:34"/> in three or fower daies: and after thei haue dronke fower or fiue droppes of this oyle, and annoynted therewith the region of the blader, preſently thei haue made wa<g ref="char:EOLhyphen"/>ter without any tarriyng.</p>
+                     <p>This oyle is ſo excellent againſt the pe<g ref="char:EOLhyphen"/>ſtilence, that if any drinke thereof oftenty<g ref="char:EOLhyphen"/>mes, he ſhall not bee infected: although he were in the houſe where the Peſtilence is. But if any haue the plague alreadie, let him drinke thrée or fower droppes in Wine and laie hym doune to ſweate, and the next daie he ſhalbe well againe:</p>
+                     <p>This Oyle is ſo excellent againſt poy<g ref="char:EOLhyphen"/>ſ<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n, that if a man vſe it there will no poy<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: missing" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>n remaine within hym: it ſtrengtheneth the Mawe and all in ward partes, and prin<g ref="char:EOLhyphen"/>cipally it warmeth the harte: it ſtoppeth the <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>odie flixe: it is alſo good againſt all deſea<g ref="char:EOLhyphen"/>ſes of the kidnes and blader: if ye drinke it with Wine it ſtoppeth womens tearmes: this oyle beyng annoynted from the nauell of a woman to the priuie partes and raines of the backe, it ſtrengtheneth the Matrixe or Mother, and drieth vp the moiſture ther<g ref="char:EOLhyphen"/>in, and prepareth it to conception.</p>
+                     <pb facs="tcp:181118:35"/>
+                     <p>This ſaied oyle of Iuneper being made vp with Sugar in <hi>Manus christi,</hi> hath the foreſaied vertues.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Roſemarie Flowres.</head>
+                     <p>TAke Roſemarie Flowers and ſtampe them, then putte it into a glaſſe with ſtrong wine and ſtop it cloſe, then ſette it in the Sunne fiue or ſixe daies, and then diſtill it with a ſofte fire, and thou ſhalte haue bothe water and oyle, the whiche you ſhall ſeparate and keepe cloſe in a glaſſe, and his vertues are theſe.</p>
+                     <p>It helpeth againſt al paines in the head, although thei haue continued ſeuen yeres: it co<g ref="char:cmbAbbrStroke">̄</g>forteth the memorie, and alſo preſerueth the eyes, if you drinke thereof now and then a droppe or two, and putte another into the eyes. It helpeth thoſe that are deaffe, if it be put into the eares, and alſo dronke with good Wine: It openeth all ſtoppinges of the Liuer and Milte, and helpeth againſt the Dropſie and yellowe Iaundize: it brea<g ref="char:EOLhyphen"/>keth winde and helpeth the Collicke, and
+<pb facs="tcp:181118:35"/> riſyng of the Mother: it is alſo excellent for thoſe that haue dronke poyſon, or that are infected with the Peſtilence, if you drinke therof a little and laie you doune to ſweate: It comforteth the harte and cleanſeth the blood, and maketh a man merrie, and cau<g ref="char:EOLhyphen"/>ſeth a good couler, and this oyle is moſte excellent for thoſe that are full of itche and ſcabbes. And to bee ſhorte, it helpeth all de<g ref="char:EOLhyphen"/>ſeaſes of the bodie, that come of colde and moiſte homours, although thei were neuer ſo euill: it helpeth the Canker and Fiſte<g ref="char:EOLhyphen"/>lowes, and ſuche like.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Wilde Tyme.</head>
+                     <p>THis Oyle is made as is aforeſaied.</p>
+                     <p>This Oyle beeyng eaten in Ta<g ref="char:EOLhyphen"/>bletes of ſugar, or dronke in Wine, bringeth to women their fluxe naturall, and driueth out the ſtone and grauell, and prouoketh vomit: the ſame taken in like maner ſtoppeth the laſke, and cureth gripynges or knawinges, &amp; is excellent againſt cramps, and the contraction of ſinewes.</p>
+                     <p>This Oyle beeyng taken in meates or
+<pb facs="tcp:181118:36"/> brothes, is a ſoueraine medicine againſt all poyſones, and againſt the bitynges and ſtingynges of venemous beaſtes and Ser<g ref="char:EOLhyphen"/>pentes. This beyng applied vnto the for<g ref="char:EOLhyphen"/>heade and temples with oyle of Roſes and Vineger, ſwageth headache, and is very good againſt rauyng and frenſie: the fum of this oyle driueth awaie venemous bea<g ref="char:EOLhyphen"/>ſtes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Tyme.</head>
+                     <p>THis Oyle is made as is aforeſaied, and his vertues are theſe.</p>
+                     <p>Three or fower droppes beeyng dronke with honied water, helpeth a pain<g ref="char:EOLhyphen"/>full Cough and ſhortneſſe of breath: it pro<g ref="char:EOLhyphen"/>uoketh vrine, &amp; expelleth the ſecondine and dead fruite from the Matrixe: it prouoketh menſtrue, and diſſolueth clotted and conge<g ref="char:EOLhyphen"/>led blood in the bodie: being taken with oxi<g ref="char:EOLhyphen"/>mell and a little ſalte, it purgeth tough and clammie fleme, and ſharpe cholerike hu<g ref="char:EOLhyphen"/>mours, and all corruption of the blood: be<g ref="char:EOLhyphen"/>yng taken in the ſaied maner, it is good a<g ref="char:EOLhyphen"/>gainſt the <hi>Sciatica,</hi> the paine in the ſide and
+<pb facs="tcp:181118:36"/> the breaſt: it is alſo good againſt blaſtinges and windineſſe in the ſide and bellie, and of the ſtones and genitores: it is good for thoſe that are fearfull, melancollie and troubled in ſpirite and mynde.</p>
+                     <p>This Oyle beeyng often vſed, helpeth bleired eyes and paines of the ſame: beyng dronke in Wine, it is moſte profitable for thoſe that are troubled with the Goute, but if it chaunce that their paines bee on them, ye ſhall giue them fiue or ſixe droppes with a dram of oximell: if ye vſe this oftentymes with honey, it will clenſe the breaſte, and ri<g ref="char:EOLhyphen"/>pen fleme, and cauſeth it to bee ſpitte forthe with eaſe: the ſmell of this Oyle is moſte comfortable for thoſe that haue the fallyng ſickneſſe.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of ſweete Margerom.</head>
+                     <p>THis Oyle is made as is aforeſaid, and his vertues are theſe.</p>
+                     <p>Beyng dronke in white wine, it is moſte holſome for thoſe that beginne to fall into a Dropſie, and for ſuch <gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s cannot piſſe but drop after drop, and that
+<pb facs="tcp:181118:37"/> with greate difficultie. It is alſo good for thoſe that are troubled with griping paines and wringynges of the bellie: beyng taken in the ſaied order: it prouoketh womens tearmes.</p>
+                     <p>If ye co<g ref="char:cmbAbbrStroke">̄</g>ueie this oyle with oyle of bitter Almondes vp into the noſethrelles, it will pourge the head of moyſt humours, &amp; cauſe them to neeſe. It is moſt excellent for thoſe that haue loſt their ſmelling, and againſt all paines of the heade beeyng vſed as is afore<g ref="char:EOLhyphen"/>ſaied: it is good againſt poyſon, and the ſtingyng of Scorpions.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Sage.</head>
+                     <p>THis Oyle is made in the aforeſaied order: And helpeth congeled blood within the bodie, and cureth inwarde woundes and bruſes, either by a ſtripe or fall if it be dronke with Wine: it prouoketh vrine and breaketh the ſtone: it comforteth the harte, and taketh awaie the head ache. It is alſo good for women with childe, to vſe it now and then, for it cloſeth the Ma<g ref="char:EOLhyphen"/>trixe and comforteth the fruite.</p>
+                     <pb facs="tcp:181118:37"/>
+                     <p>This Oyle beyng often dronke cauſeth women to be fruitfull: If ye drinke it with Wine it helpeth the Cough, and openeth the ſtoppinges of the Liuer, and ſwageth the paine in the ſide: if it bee dronke with Worme wood wine, it ſtoppeth the bloodie flixe: It is alſo good againſt the bityng of venemous beaſtes, for it clenſeth and hel<g ref="char:EOLhyphen"/>peth them.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Peniriall.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>His Oyle is made as is aforeſaied, and his vertues are theſe.</p>
+                     <p>Being dronke in the Wine, it mo<g ref="char:EOLhyphen"/>ueth monthly tearmes, bringeth forthe the ſecundine, the dead fruite and the vnnatural birthe: it prouoketh vrine, and breaketh the ſtone, eſpecially in the Ridnies, beyng vſed with purified honey: it clenſeth the lunges and breaſte from all groſe &amp; thicke humors. This oyle beyng mixt with honey and Al<g ref="char:EOLhyphen"/>loes, purgeth the melancholike humor and preuaileth muche againſt cramps, and the contraction of ſinewes.</p>
+                     <p>This Oyle beeyng dronke with water
+<pb facs="tcp:181118:38"/> and vineger, ſtaieth the inordinate deſire to vomit, and the gnawyng paines of the ſto<g ref="char:EOLhyphen"/>macke, beeyng dronke with Wine, it hel<g ref="char:EOLhyphen"/>peth the bityng of venemous beaſtes: it is alſo good againſt the fallyng ſickneſſe: the temples and noſethrelles beyng annoynted with this oyle, it taketh awie the ſwim<g ref="char:EOLhyphen"/>myng paines and giddineſſe of the head. It is moſte excellent for thoſe that haue colde and moyſt braines: it taketh awaie the pai<g ref="char:EOLhyphen"/>nes of the Goute. The fume or ſmoke of this oyle beyng taken at the ſecrete partes with a fonell, is good againſte ventoſite, windineſſe, and blaſtinges, and alſo againſt the hardneſſe and ſtoppyng of the Mother.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Mynte.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>His Oyle is made as is aforeſaid.</p>
+                     <p>This Oyle beeyng either eate or dronke, is moſte profitable for the ſtomack, for it warmeth and ſtrengthe<g ref="char:EOLhyphen"/>neth the ſame, and drieth vp all moyſte and ſuperfluous humors gathered in the ſame, and taketh awaie all paines therof, and cau<g ref="char:EOLhyphen"/>ſeth good diſgeſtio<g ref="char:cmbAbbrStroke">̄</g>: it ſtaieth alſo vomityng
+<pb facs="tcp:181118:38"/> in thoſe that haue a weake ſtomacke, being dronke with vineger, it ſtaieth thoſe that vomit blood, and killeth the round wormes.</p>
+                     <p>This Oyle beyng dronke fower or fiue tymes with ſome conuenient licour, hel<g ref="char:EOLhyphen"/>peth the gripyng paine and knawing in the bellie, with the Collicke, and ſtoppeth the inordinate courſes of the menſtruall iſſue, beyng dronke with wine, it eaſeth women which are to muche greeued with hard and perilous trauell in childe bearyng: beeyng dropped into the eares it taketh awaie the paine: the ſmell of this oyle cauſeth a man to be merrie.</p>
+                     <p>This Oyle is ſingular good againſt the grauell and ſtone in the Ridnies, &amp; againſt the ſtrangurie, whiche is when one can not piſſe but drop after drop, if ye vſe to drinke it in Wine.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Iſope.</head>
+                     <p>THis Oyle is made as is aforeſaied of Camomill. If ye vſe to eate this oyle either mixed with honey, or made into <hi>Ma<g ref="char:EOLhyphen"/>nui Christi</hi> with Sugar, it will helpe thoſe
+<pb facs="tcp:181118:39"/> that haue obſtructions or ſtoppinges of the breaſte, with ſhortneſſe of breathe, it is alſo good againſt an olde dificulte &amp; hard cough: ye muſt vſe this mornyng and euenyng for a certaine ſpace.</p>
+                     <p>This Oyle beyng dronke with ſirrupe of vineger, purgeth dounwarde tough and clammie flegme, &amp; killeth and driueth forth wormes: it hath the like vertue if ye eate the ſame with figges.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Radiſhe Seede.</head>
+                     <p>TAke the ſeede of Radiſhe and ſtampe it ſmall, the<g ref="char:cmbAbbrStroke">̄</g> take for euery pound of ſeede, two ounces of good Wine, then ſtampe it againe vntill it be mixed, then put it into a veſſell of Iron or Copper, and ſette it ouer the fire, and ſtirre it continually, vntill it be ſo hot as you maie ſuffer your hand therein, then put it into a canuas bagge, and preſſe it forthe, and thou ſhalt haue bothe oyle and water, the whiche you ſhall ſeparate one from another.</p>
+                     <p>This Oyle cauſeth good diſgeſtion, and prouoketh vrine, the whiche is ſtopped
+<pb facs="tcp:181118:39"/> through winde and ventoſitie: it diſſolueth winde in the ſtomacke, and breaketh the grauell and ſtone in the bladder.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Musterdſeede.</head>
+                     <p>THis Oyle is made by impreſſion as is ſaied afore, and is excellent for thoſe that haue the ſtone, and cauſeth them to auoyde grauell: it prouoketh womens ſickneſſes, if you annoynte the bodie and raines, and within the necke of the Matrixe, and alſo take it inwardly, it diſſolueth the paines of the ſide and Moother, if you eate it with a little Sinamon and white honey mixed to<g ref="char:EOLhyphen"/>gether.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Colworte ſeede.</head>
+                     <p>THis Oyle is made as is ſaied afore, and of nature is hot and windie, and is vſed much of lecherous perſones, becauſe it ma<g ref="char:EOLhyphen"/>keth eleuation of the yarde, and cauſeth the<g ref="char:cmbAbbrStroke">̄</g> to be luſtie, beyng vſed in meates it cauſeth good diſgeſtion: it preſerueth armour from ruſtyng a long tyme: it is good againſt in<g ref="char:EOLhyphen"/>flamations
+<pb facs="tcp:181118:40"/> in all partes of the bodie, and is alſo good againſt wormes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Linſeede.</head>
+                     <p>THis Oyle is made in the aforeſaied or<g ref="char:EOLhyphen"/>der, and is good againſt the Plureſie: if ye giue thereof fower ounces to drinke, for it diſſolueth the impoſtume preſently, and ſo preſerueth life. It is good againſt the Emerods in the fundament. This oyle of Lineſeede beeyng diſtilled with Franken<g ref="char:EOLhyphen"/>cenſe and waxe, is moſt excellent to diſſolue all contuſions. With this oyle they make Verniſhe.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Sainct Iohns woorte or Seede.</head>
+                     <p>THis Oyle is made of the ſeedes by im<g ref="char:EOLhyphen"/>preſſion, and is excellent to helpe woun<g ref="char:EOLhyphen"/>des, becauſe it defendeth them from alcera<g ref="char:EOLhyphen"/>tion, and maturation, and will not ſuffer homours to runne thither. It is alſo excel<g ref="char:EOLhyphen"/>lent againſt poyſon, and the peſtilent feuer, all euill diſpoſitions of the ſtomacke: it
+<pb facs="tcp:181118:40"/> is good againſt the fluxe of the bodie and Emerods, and for all maner of ſcabbes. It helpeth the rupture newly doen, if you an<g ref="char:EOLhyphen"/>noynte it therewith, and weare a truſſe fit for the purpoſe, and let hym keepe his bed, and walke as little as he can for a certaine tyme: it helpeth againſt all maner of ſores, as well olde as newe, and that it doeth by his proper qualitie, for it is neither hot nor colde, but temperate.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Quinces ſeede.</head>
+                     <p>TAke the ſeede of Quinces and ſtampe them, then put them into a Friyng pan with a little Wine, and ſtirre them well to<g ref="char:EOLhyphen"/>gether, vntill it be ſo hot that you can ſcarſe abide your hande therein, then put it into a canuas bagge, and preſſe it out in a preſſe, and thou ſhalte haue both Oyle and water, the whiche thou ſhalt ſeparate.</p>
+                     <p>This Oyle is excellent againſt all pai<g ref="char:EOLhyphen"/>nes in the ſtomacke, and helpeth diſgeſtion and diſſolueth winde: It prouoketh vene<g ref="char:EOLhyphen"/>rous actes. It is alſo good againſt the E<g ref="char:EOLhyphen"/>merods and Fiſtelowes that come in the
+<pb facs="tcp:181118:41"/> lower partes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Acornes.</head>
+                     <p>THis Oyle is made as is aforeſaied, and is very reſtrictiue and driuyng, and hel<g ref="char:EOLhyphen"/>peth thoſe that are troubled with the fluxe, if ye drinke thereof a little and annoynte the bellie therwith: you ſhall note that this oyle is not to be occupied muche inwardly: this oyle is excellent to make Verniſhe.</p>
+                     <p>In this maner ye maie make oyles out of all maner of ſeedes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Tartare by distillation.</head>
+                     <p>TAke white <hi>Tartare</hi> beaten in pouder, fower pounde, and put it into a ſtrong veſſell of ſtone well luted, with a head and a receiuer, and giue it firſt a ſmall fire, and then increaſe it according to arte, and at the laſt giue it extreame fire vntill all the moy<g ref="char:EOLhyphen"/>ſture be come forthe, then put the licour in to a glaſſe, and diſtill it in <hi>Balneo,</hi> and the oyle will remaine in the bottome: the which
+<pb facs="tcp:181118:41"/> thou ſhalte diſtill or rectifie in Sande, and then the oyle will haue the colour of golde.</p>
+                     <p>It is moſte excellent to cure vlcers cau<g ref="char:EOLhyphen"/>ſed of the poxe: for it taketh awaie their ma<g ref="char:EOLhyphen"/>lice in ſuch order, that it can hurte no more: beyng dronke with Wine, it breaketh the ſtone in the raines and blader, and prouo<g ref="char:EOLhyphen"/>keth vrine, it purgeth vlcers.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>Another waie to make Oyle of Tartare.</head>
+                     <p>TAke <hi>Tartare</hi> and ſtampe it ſmall, and then put it in a newe earthen pot vngla<g ref="char:EOLhyphen"/>ſed, and ſet it in a Potters furneſſe, or fur<g ref="char:EOLhyphen"/>neſe of reuerberation vntill it be white, then laie it vpon a ſmooth ſtone in a moyſt place, and it will turne into Oyle: the whiche is corroſiue: but one parte thereof mixed with ten partes of pure rectified <hi>Aqua vitae,</hi> healeth vlcers quickly, if ye touch them therwith: it maketh the face faire: if ye waſh the haire therewith it maketh it yellowe: it taketh out blacke ſpottes in linen cloth, and fixeth the medicines alchimical, with diuers other vertues, the whiche I will leaue vn<g ref="char:EOLhyphen"/>till
+<pb facs="tcp:181118:42"/> another tyme.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of a Hartes horne.</head>
+                     <p>
+                        <seg rend="decorInit">Y</seg>E ſhall take a Hartes horne in the moneth of Auguſt, and file it to pouder, the<g ref="char:cmbAbbrStroke">̄</g> boyle it in wa<g ref="char:EOLhyphen"/>ter vntill it bee ſufficient, then drawe awaie the water in <hi>Balneo,</hi> and take that whiche remaineth in the bottome, and put it in a glaſſe with little peeces of tyles, and diſtill it, and thou ſhalt haue a faire oyle, the whiche ſerueth for ſondrie purpoſes.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To distill Oyle of a Mans Excrements.</head>
+                     <p>TAke the dongue of a young ſanguyne childe or man, as much as you will, and diſtill it twiſe in a Limbeck of glaſſe. This helpeth the Canker, and mollifieth Fiſte<g ref="char:EOLhyphen"/>lowes: comforteth thoſe that are troubled with Allopecia.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of the Skull of a man.</head>
+                     <p>TAke the Skull of a man that was ne<g ref="char:EOLhyphen"/>uer buried, and beate it into pouder, then
+<pb facs="tcp:181118:42"/> diſtill awaie the fleme with a gentle fire, and putte it on againe, and diſtill it againe, and thus you ſhall doe three tymes vppon the feſes, and at the laſte giue it ſtrong fire, vntill the oyle be come forthe: the whiche ye ſhall ſeparate by <hi>Balneo,</hi> and keepe it cloſe ſhut in a glaſſe. The doſe is three graines, againſt the fallyng ſickneſſe. Ye ſhall vn<g ref="char:EOLhyphen"/>derſtande, that there is alſo a Salte to bee drawne forthe of the feſes, the whiche is of greate vertue againſt the aforeſaied deſea<g ref="char:EOLhyphen"/>ſes beyng dronke with Wine, as is afore<g ref="char:EOLhyphen"/>ſaied.</p>
+                  </div>
+                  <div type="note">
+                     <pb facs="tcp:181118:43"/>
+                     <p>If any man be diſpoſed to haue any of the afore<g ref="char:EOLhyphen"/>ſaied Oyles readie made, he maie haue them at Poules wharf at the ſigne of the Furnaſes, by one Ihon Heſter practiſioner in the arte of diſtillations.</p>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:181118:43"/>
+                  <p>
+                     <hi>THE KEY OF Philoſophie.</hi>
+                  </p>
+                  <p>
+                     <hi>The ſeconde parte.</hi>
+                  </p>
+                  <p>
+                     <hi>Containyng the orderyng, &amp; pre<g ref="char:EOLhyphen"/>paryng</hi> of all Metalles, Mine<g ref="char:EOLhyphen"/>ralles, Alumes, Salts, and ſuch like. For Medicines both inwardly, and outwardly, and for di<g ref="char:EOLhyphen"/>uers other vſes.</p>
+                  <p>¶ <hi>At London Printed <hi>by Richard Daie.</hi>
+                     </hi>
+                  </p>
+                  <p>
+                     <hi>Cum Priuilegio.</hi>
+                  </p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:181118:44"/>
+                  <p>
+                     <seg rend="decorInit">I</seg>N this preſent booke welbeloued Reader, I haue taken vpo<g ref="char:cmbAbbrStroke">̄</g> me to ſet forthe the trew and worthie cunning of the diſtillation of Mineralles, that is, of thoſe hi<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ges the which are founde in the Mines, as all maner of <hi>Saltes, Allomes, Vitrioll, Sulfur, Mercurie,</hi> and ſuche like Mettalles as <hi>Saturnus, Iupiter, Mars, Sol, Luna, Venus.</hi> And how you ſhall get the licour or moyſture out of them. And all that whiche appertaineth to the health of man. The whiche I meane by the grace of God to ſet forthe in this booke, with a nu<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>ber of <hi>Alchymistes</hi> preparations of the ſaied thinges, the whiche worketh won<g ref="char:EOLhyphen"/>derfully in mans bodie: ſo that it ſeemeth to diuers perſones miraculous.</p>
+                  <p>Therefore gentle Reader peruſe this booke with diſcretion, and then if thou ſeeſt it ſtande to thy mynde, ſet thy hande to the Plough &amp; be diligent in the worke, ſo that thou maieſt knowe the proofe, and feele the readie commoditie thereof, for
+<pb facs="tcp:181118:44"/> ye ſhall vnderſtand that there is no medi<g ref="char:EOLhyphen"/>cine in the world that can be founde of ſo quicke operation as the Mineralles are, if thei be truly prepared and as I will ſhew you hereafter: But if thei be not well pre<g ref="char:EOLhyphen"/>pared thei are very hurtfull, and not to be allowed. Therefore looke that ye prepare them as I ſhall ſhewe you, and then you ſhall wonder at their workyng.</p>
+                  <p>And although the worthie ſcience of <hi>Alchymie</hi> is come in ſuche diſdaine through leude perſones, that it ſeemeth lyes and fables, and no true ſcience: Yet that ought not to hinder or derrogate any thyng to our purpoſe, as long as our mat<g ref="char:EOLhyphen"/>ter is againſt the abuſe of it, as for example</p>
+                  <p>The <hi>Alchymistes</hi> haue wrought in this worke, to the intent that they might haue of leade and copper, golde and ſiluer, or the meane to make them of all other ſim<g ref="char:EOLhyphen"/>ples or ſleight Metalles. But whether god hath giuen them that gifte I knowe not: therefore I leaue it to the maiſters of that arte. And albeit we haue ſeen many won<g ref="char:EOLhyphen"/>derfull thinges in that arte: yet will I not affirme that it is poſſible to be doen, for it
+<pb facs="tcp:181118:45"/> ſeemeth vnreaſonable, that a man in ſo ſhorte tyme ſhould dooe that thing, the whiche nature doeth in many yeres. And that me<g ref="char:cmbAbbrStroke">̄</g> ſhould preſume to do that which God doeth onely him ſelf, and not any of his creatures. We therfore will not affirme it to bee true or poſſible, nor yet denie it vtterly, or condemne it as vntruth. But we will leaue the aunſwere vnto thoſe that take it to be doen.</p>
+                  <p>But here in this treatiſe we wil ſet forth that whiche we haue ſeene and wrought, and proued, and are experte therein. And although it bee ſprong out of the arte of <hi>Alchymie,</hi> yet it is not to that intente, for it ſerueth not to tranſmute Mettalles, but it ſerueth to helpe thoſe diſeaſed bothe in<g ref="char:EOLhyphen"/>wardly and outwardly: who of the com<g ref="char:EOLhyphen"/>mon Chyrurgions are counted vncurable, and alſo giuen ouer of the Phiſitions. Thoſe pacients ſhalbe holpe<g ref="char:cmbAbbrStroke">̄</g> through the hidden miſteries and heauenly ſecretes of this ſcience.</p>
+                  <p>And for as muche as it is vnpoſſible to prepare theſe thinges without the arte of <hi>Alchymie:</hi> therefore we muſt praiſe this
+<pb facs="tcp:181118:45"/> arte through our preparations aboue al o<g ref="char:EOLhyphen"/>ther ſciences, that maketh for the health of man, for thei preſerue a man onely tou<g ref="char:EOLhyphen"/>ched &amp; afflicted with ſlight woundes and griefes on his bodie, and that with muche paine and muche adoe. But this arte gi<g ref="char:EOLhyphen"/>ueth vnto man his health againe in ſhorte tyme, and with ſmall paine vnto the paci<g ref="char:EOLhyphen"/>ent, be he neuer ſo deſparatly ſicke, and to mans thinking paſt cure: for I haue ſeene miracles therein.</p>
+                  <p>And in ſo muche that it is all prepared with fire: the meane man calleth it <hi>Alchy<g ref="char:EOLhyphen"/>mia.</hi> How beit the inte<g ref="char:cmbAbbrStroke">̄</g>t of the <hi>Alchymiste</hi> is farre from our intent. But call it what you will, it maketh not muche matter of the name. For I am ſure there is nothyng in all Phiſicke that miniſtreth either bet<g ref="char:EOLhyphen"/>ter or readier helpe to cure mans bodie, then this ſcience of preparing Mettalles with fire rightly. I ſaie rightly prepared, not as the vnſkilfull <hi>Apoticaries</hi> haue or<g ref="char:EOLhyphen"/>dred them: or as the vnlearned Phiſition haue occupied them, for the <hi>Apothecarie</hi> is no other then a ſeruaunt in the kitchin (as I maie tearme him) and no Maiſter
+<pb facs="tcp:181118:46"/> Cooke, ſo long as he knoweth not theſe preparations, whiche I will ſhewe you.</p>
+                  <p>In like maner it is to be thought of the Phiſition that hath no skill in theſe prepa<g ref="char:EOLhyphen"/>rations. For we haue ſeene and proued di<g ref="char:EOLhyphen"/>uers tymes, that the firſt vapour or ſmoke of any Hearbe or Spice is the beſte that is therein, and yet our learned Phiſitions commaunde it to be boyled vntill halfe be conſumed, &amp;c. Then note if the beſte flye awaie in the boyling, what ſtrength can the medicine haue. Therefore I ſaie that the Phiſition without this arte of prepara<g ref="char:EOLhyphen"/>tion is little or nothyng worthe, although they take the pacientes money. For he goeth to worke blindly with a blinde lea<g ref="char:EOLhyphen"/>der whiche is the Apoticarie. But the Phi<g ref="char:EOLhyphen"/>ſition that is experte in this ſcience, and doeth prepare his medicines truely, he is to be praiſed aboue all other. For a man ca<g ref="char:cmbAbbrStroke">̄</g> not buye with any money that whiche is got by long carefull trauaile. Therefore is the arte of <hi>Alkimie</hi> worthie to be praiſed, and the <hi>Alchymiste</hi> to be praiſed alſo, al<g ref="char:EOLhyphen"/>though thei attaine not to their firſt inten<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g>, yet thei haue opened the way, through
+<pb facs="tcp:181118:46"/> the whiche this excellent cunnyng of pre<g ref="char:EOLhyphen"/>paration was knowne and founde, and through the which there are a number of wonderfull ſecretes opened, the whiche without this arte were all vnknowne, to the great hinderaunce of the ſicke and di<g ref="char:EOLhyphen"/>ſeaſed perſones. Therfore I will not ſpeake againſt it, but holde it in greate eſtimation to our intention, that is to the helpe of the ſicke and diſeaſed perſon, and to prepare the Minneralles wherewith you may doe that whiche can not be done with any o<g ref="char:EOLhyphen"/>ther Hearbes, or ſimples, or Spices. And hearewith will we finiſh this preface, and wright of the names of the ſimples, the whiche are occupied in this arte.</p>
+               </div>
+            </front>
+            <body>
+               <div type="recipes">
+                  <pb facs="tcp:181118:47"/>
+                  <head>
+                     <hi>The names of the Metalles,</hi> Simples, or Medicines of this Science.</head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Ere wil I welbeloued Reader, ſhew thee for good will that thyng whiche many haue ſought with their mo<g ref="char:EOLhyphen"/>ney and labor, and yet could nere finde it: e<g ref="char:EOLhyphen"/>ſpecially for that I will not haue this wor<g ref="char:EOLhyphen"/>thie ſcience trodde vnder foote. Therefore we will write firſt of the names of the ſim<g ref="char:EOLhyphen"/>ples, and then of the names of the prepara<g ref="char:EOLhyphen"/>tions, and what they are.</p>
+                  <p>
+                     <hi>Sall Armoniack,</hi> that is a Salte ſo cal<g ref="char:EOLhyphen"/>led, the whiche ye ſhall finde at the Appoti<g ref="char:EOLhyphen"/>caries.</p>
+                  <p>
+                     <hi>Sall Gemme,</hi> is ſtone ſalte, founde in the Myne as cleare as the glaſſe.</p>
+                  <p>
+                     <hi>Sall Commune,</hi> is common Salte that we eate.</p>
+                  <p>
+                     <hi>Vitriolum</hi> is greene <hi>Coperas.</hi>
+                  </p>
+                  <p>
+                     <hi>Calcantum,</hi> is yellowe Coperas a Mat<g ref="char:EOLhyphen"/>ter like Oker.</p>
+                  <p>
+                     <hi>Alumen</hi> is Alum: but there are diuers
+<pb facs="tcp:181118:47"/> kindes.</p>
+                  <p>
+                     <hi>Sulfur vine</hi> is the ſtone whereout the o<g ref="char:EOLhyphen"/>ther <hi>Sulfur</hi> is melted, &amp; is greene of color.</p>
+                  <p>
+                     <hi>Antimonium</hi> is a certaine Mynerall ſo called that ye ſhall finde at the Appotica<g ref="char:EOLhyphen"/>ries.</p>
+                  <p>
+                     <hi>Carrabe</hi> that is yellowe <hi>Ambre</hi> or <hi>Su<g ref="char:EOLhyphen"/>cinum.</hi>
+                  </p>
+                  <p>
+                     <hi>Tartarum,</hi> that is Argill or Wine léeſe.</p>
+                  <p>
+                     <hi>Saturnus</hi> that is Leade.</p>
+                  <p>
+                     <hi>Iupiter</hi> that is Tinne.</p>
+                  <p>
+                     <hi>Mars</hi> that is Iron.</p>
+                  <p>
+                     <hi>Sol</hi> that is Golde.</p>
+                  <p>
+                     <hi>Luna</hi> that is Siluer.</p>
+                  <p>
+                     <hi>Venus</hi> that is Copper.</p>
+                  <p>
+                     <hi>Mercurie</hi> that is Quickſiluer.</p>
+                  <div type="part">
+                     <head>The names of the preparations.</head>
+                     <p>
+                        <hi>
+                           <seg rend="decorInit">C</seg>Alcinatio</hi> that is to make a<g ref="char:EOLhyphen"/>ny of theſe Metalles as it were lyme, with greate fire ſometimes, and other ſome tyme with ſmall fire.</p>
+                     <p>
+                        <hi>Solutio</hi> that is to diſſolue and make as it were liquide like vnto water, the harde or
+<pb facs="tcp:181118:48"/> tough ſubſtaunce of any thyng.</p>
+                     <p>
+                        <hi>Subblimatio</hi> that is a driuing vp, or aſeu<g ref="char:EOLhyphen"/>tion of the Mettall by force of heate into the toppe of the Limbecke, ſo that it maie hang in the toppe of the veſſell harde and drie.</p>
+                     <p>
+                        <hi>Distillatio,</hi> that is to take awaie the moyſture by the heate of the fire.</p>
+                     <p>
+                        <hi>Digestio</hi> that is to ſet the matter in hot water or in horſe dongue.</p>
+                     <p>
+                        <hi>Fixatio</hi> that is to ſublime a matter, ſo long that it will ſublime no more, but re<g ref="char:EOLhyphen"/>maine fixte in the bottome.</p>
+                     <p>There are a number of other prepara<g ref="char:EOLhyphen"/>tions, but wee will leaue them becauſe we haue written ſufficient for our purpoſe al<g ref="char:EOLhyphen"/>readie.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To prepare Crocum martis and ſuche like which are prepared through Calcination.</head>
+                     <p>
+                        <hi>
+                           <seg rend="decorInit">C</seg>Rocum martis,</hi> or <hi>Crocum ve<g ref="char:EOLhyphen"/>neris</hi> ſhalbe made in this maner.</p>
+                     <p>Take the limmall of Iron, as muche as you will, and waſhe it with faire water ſo long vntill that the wa<g ref="char:EOLhyphen"/>ter runne as cleare of as it was putte on:
+<pb facs="tcp:181118:48"/> then putte it in a glaſſe, and putte thereon ſtrong vineger vntill it be couered, and let it ſtande ſo two or three daies cloſe ſhut: then poure of the vineger and drie the limmall well, then putte it into a newe earthen pot with a couer, and lute it very well rounde a<g ref="char:EOLhyphen"/>boute with lyme and heare mixte together: then ſet it in a furnaſe of <hi>Calcination</hi> eight daies and eight nightes, ſo that it may con<g ref="char:EOLhyphen"/>tinually ſtande read hot, then take it forthe and grinde it on a ſtone, and if it grinde ve<g ref="char:EOLhyphen"/>ry ſmoothe without any harde matter that ye can either ſee or feele, then it is calcined enough: but if ye feele any harde matter, put it into the furnaſe againe twoo or three daies, and then grinde it againe, and this order ye ſhall vſe vntill it bee fine as can be poſſible.</p>
+                     <p>This <hi>Crocum martis</hi> beeyng ſo prepa<g ref="char:EOLhyphen"/>red, amongeſt all other medicines in the worlde, it is the moſte excellent that can be found againſt the bloodie flixe, giuyng it in this order. Take conſerue of Roſes one ounce, <hi>Crocu<g ref="char:cmbAbbrStroke">̄</g> martis</hi> one ſcrupple mixe the<g ref="char:cmbAbbrStroke">̄</g> together, and let the paciente eate it in the mornyng, and faſt thereon two houres, and
+<pb facs="tcp:181118:49"/> it will helpe him although he had had it ne<g ref="char:EOLhyphen"/>uer ſo long, or neuer ſo ſore. It is alſo giuen aboue all other medicines in the latter ende of a Dropſie, and alſo againſt the fluxe of menſtrue, and againſt bleeding at the noſe, and all other fluxes. It helpeth thoſe that ſpitte blood: it is excellent to ſtop the fluxe in woundes, and to helpe them &amp; drie them, if ye ſtrawe the pouder thereon, &amp;c. Ye ſhall make <hi>Crocum veneris</hi> in the ſelf ſame or<g ref="char:EOLhyphen"/>der aforeſaied: but where ye tooke limmall, ye ſhall take the ſcales of Copper: and ye ſhall note, that when they be bothe calcined enough, they will be as red as blood. Alſo ye ſhall note, that this <hi>Crocum veneris</hi> is not to bee vſed inwardly, but onely out<g ref="char:EOLhyphen"/>wardly.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>Of the preparation of Alumes and Saltes.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake <hi>Sal Gem,</hi> or common ſalte, and ſet them in a calci<g ref="char:EOLhyphen"/>nyng furnaſe with a ſmall fire, vntill it bee red hot half an houre, and that it crake
+<pb facs="tcp:181118:49" rendition="simple:additions"/> no more, then let it waxe colde and beate it to pouder, then put it in cleane raine water and let it melte, and lette it ſtande till it bee cleare, then powre it in a pot well nealed, and ſet it on the fire, and let it boyle till it be drie, and ye ſhall finde the ſalt on the grou<g ref="char:cmbAbbrStroke">̄</g>d as white as ſnowe, the which ye ſhall neale once more in the fire, and then it is prepa<g ref="char:EOLhyphen"/>red.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>The preparation of Allum.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake Allum and calcine it in an open veſſell till al his moyſture be gon, then make it red hotte, and after a while put it into an other pot with ſtrong vineger, and ſet it on the fire and let it ſeathe drie, then ſette it on the fire againe till it be red hot and as white as ſnowe, then keepe it to thy vſe.</p>
+                     <p>This is very excellent to drie vp olde ſores if it be mixte with honey, and taketh awaie dead fleſhe without paine, &amp;c.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To calcine Vitrioll.</head>
+                     <pb facs="tcp:181118:50"/>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake <hi>Vitrioll</hi> and beate it to pouder, and put it into a new earthen pot that is vnneiled, and ſet it in a o<g ref="char:EOLhyphen"/>uen ſomewhat warme till it bee drie, then couer the pot cloſe and lute it well, that no ayre maie come forthe: then ſet it in a calcinyng fur<g ref="char:EOLhyphen"/>naſe the ſpace of two houres, ſo that it maie alwaies be as red as the coales, and then it will be as red as blood, then grinde it on a ſtone, and keepe it to thy vſe.</p>
+                     <p>There is no Coroſiue the whiche wor<g ref="char:EOLhyphen"/>keth like this <hi>Vitrioll</hi> calcinated, for if ye mixe it with any Vngue<g ref="char:cmbAbbrStroke">̄</g>t, &amp; lay it on a euill vlcer, it maketh an Aſker the whiche in all Coroſiues muſt be louſed with fact or but<g ref="char:EOLhyphen"/>ter: but this Coroſiue needeth not, for ye muſt ſtill laie more thereon, and leue the Aſker in the ſore, for the vertue of this <hi>Vi<g ref="char:EOLhyphen"/>trioll</hi> is ſo greate, that it cauſeth the fleſhe to growe vnder the Aſker, and when the fleſhe is enough the Aſker will fall of, and then ye ſhal neede nothing but to ſkinne it, the whiche is not commonly ſeene of other Coroſiues: therefore I praiſe this for the beſt of all Coroſiues.</p>
+                  </div>
+                  <div type="recipe">
+                     <pb facs="tcp:181118:50"/>
+                     <head>To calcine Quicksiluer.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake <hi>Aqua fortis</hi> ℥.ij. <hi>Mercurie</hi> ℥.j. and putte them in a glaſſe, and ſet it on the fire in a ſcaruell with ſande or aſhes, till the <hi>Mercurie</hi> be diſſol<g ref="char:EOLhyphen"/>ued, then put it into an earthen potte well glaſed, and ſet it on the fire to boyle till it be drie, and ſtirre it alwaies with a ſticke that it maie drie the better, and when it is well dried, put it in another pot with a keuer that is very well glaſed within, then lute it very well that no ayre maie come forth: But ye muſt note that the pot muſt be top full, then ſet it in a calcining furnaſe with a good fire fower daies and fower nightes, then grind it to ſmall pouder on a ſtone, and keepe it to thy vſe. For then thou haſt <hi>Mercurie</hi> cal<g ref="char:EOLhyphen"/>cinated, of the which we haue ſpoken much in our pearle of Chirurgerie.</p>
+                     <p>This is excellent in all olde ſores, al<g ref="char:EOLhyphen"/>though they be neuer ſo euill, for it clenſeth without paine and healeth them, that is, it clenſeth as long as it is needefull, and than it healeth, whiche is moſte ſtraunge to ſee: this eateth awaie al dead fleſh, &amp; preſerueth
+<pb facs="tcp:181118:51"/> that whiche is good and ſounde, and cauſeth the vlceration to heale in ſhorte ſpace. Ye ſhall note that whe<g ref="char:cmbAbbrStroke">̄</g> we ſpeake of <hi>Mercurie</hi> calcinated or precipitate in any place, ye ſhall take this.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To calcine Tartare.</head>
+                     <p>TAke good <hi>Tartare</hi> that is cleare and without filthe, and ſtampe it to pouder, then put it in a ſcrauell that neuer was occupied, and ſet it in the calcinyng furnaſe, ſo that it maie ſtande but euen read hot, and there let it re<g ref="char:EOLhyphen"/>maine vntil it be as white as ſnow through out, then take it forth and kepe it in a glaſſe cloſe ſhut, vntill you read more how that ye ſhall make this Oyle.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To Calcine Tynne or Lead.</head>
+                     <p>TAke Tinne or Lead and melte it on the fire, and when it is molte ſet it very hot, then take an Iron ſkum<g ref="char:EOLhyphen"/>mer and ſtirre it therewith ſo long, till it come to aſhes, then take that aſhes &amp; waſh
+<pb facs="tcp:181118:51"/> it ſo long that the water runneth cleare of as ye put it on, then drie it in a calcinyng furnaſe till that it ſmoke no more, then put it into another new pot with a couer that is vnglaſed, and lute it very well, then ſet it in the calcinyng furnaſe againe one hole daie with a good fire, then take it forthe and ye ſhal finde a Calxe in maner white, but ſome what inclinyng to yellowe. The Time ye ſhal calcine in the ſelf ſame manner as ye did the Leade, but when ye burne it to aſhes ye muſt giue it greater fire, but in calcinyng it ſhall not neede greater fire then it was for the Leade, and ſo keepe your fire vntill it be as white as ſnow, and then it is prepa<g ref="char:EOLhyphen"/>red to make his oyle as we will ſhewe you hereafter.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To Calcine Siluer.</head>
+                     <p>TAke Siluer and diſſolue it in <hi>A<g ref="char:EOLhyphen"/>qua fortis,</hi> then caſte a peece of Copper into the glaſſe where the water is with the Siluer, and ſtraight waies poure theron a good quan<g ref="char:EOLhyphen"/>titie of raine water, and then the Siluer
+<pb facs="tcp:181118:52"/> will fall to the bottome in a Calxe: then let it ſtande ſo one night or as long as ye will, and then powre awaie the cleare water, and drie the Calxe on the fire, then waſhe that with warme water ſo long that it haue no bitter taſte of the <hi>Aqua fortis,</hi> and when ye haue ſo done, ye ſhall take co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>mon ſalte prepared as I haue ſhewed you before, and laie it in a Cruſible the thicknes of a ſtraw, and then laie thereon your Calx of Siluer, and couer it with the ſame ſalte againe, then lute your cruſible with a couer that no ayre maie come forthe, then ſet it in a calcinyng furnaſe with a reaſonable fire ſixe houres long, then take it forthe and put thereon faire water, and let it ſeethe two or three Pater noſters, and then the ſalte will ſeethe awaie, and the Calxe will remaine ſweete, the whiche ye maie proue vpon the tongue: but if it be not ſweete, waſhe it a<g ref="char:EOLhyphen"/>gaine till it be ſweete, and then keepe it in a glaſſe, for it is prepared to make his Oyle.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To calcine Golde.</head>
+                     <pb facs="tcp:181118:52"/>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake golde and <hi>Mercurie,</hi> and make thereof amalgamie as the Golde-ſmithes doe vſe to gilde their ſiluer Plate: the whiche is made thus.</p>
+                     <p>Take twelue partes of <hi>Mercurie,</hi> and one parte of Golde, the whiche ye ſhall beate into very thinne plates, and then cut it in as ſmall peeces as ye can, then take a Cru<g ref="char:EOLhyphen"/>ſible and put therein the <hi>Mercurie,</hi> and ſet it on the fire till it beginne to ſmoke, then put thereto the Golde and take it from the fire, and ſtirre it together ſo long til that ye maie ſee no more Golde, then ſet it on the fire againe, and ſtir it ſo long that the <hi>Mer<g ref="char:EOLhyphen"/>curie</hi> be flowne all awaie, and then ye ſhall finde your Golde in the cruſible like ſande, then take that and put thereto as much pre<g ref="char:EOLhyphen"/>pared ſalte, and grinde them together on a ſtone as ſmall as is poſſible, then put it in a glaſſe, and waſhe it with warme water ſo long till that ye ſée the Calxe faire and yel<g ref="char:EOLhyphen"/>lowe and ſweete vpon the tongue, ſo that it taſte nothyng of ſaltneſſe, then it is prepa<g ref="char:EOLhyphen"/>red: and herewith will we make an ende of <hi>Calcination,</hi> and write of <hi>Sublimation..</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <pb facs="tcp:181118:53"/>
+                     <head>To ſublime Quicksiluer.</head>
+                     <p>TAke <hi>Mercurie</hi> and waſhe it with vineger and ſalte a pretie while, then put theron very hot water and waſh it therewith, till that the water ronne as cleare of as ye put it on, then drie it with a clothe and grinde it with vineger and ſalte againe, and waſhe it with warme water as ye did afore: this grindyng and waſhyng ye ſhall vſe till that the <hi>Mercurie</hi> bee no more blacke, and that it bee as cleare as a glaſſe, then take of that <hi>Mercurie</hi> one pound, <hi>Salt</hi> prepared two pound, <hi>Sall Armoniack</hi> ſub<g ref="char:EOLhyphen"/>blimed as I wil ſhew hereafter one pound, grinde theſe ſaltes together with the <hi>Mer<g ref="char:EOLhyphen"/>curie,</hi> ſo long till that the <hi>Mercurie</hi> can not be perceaued: then put all the ſubſtaunce in a ſubbliaiyng veſſell with his couer, the whiche hath a hole in the toppe: as I will ſhewe thee hereafter in the next booke, if God permit me life. Then ſet it in a calci<g ref="char:EOLhyphen"/>nyng furnaſe, and giue it firſte a ſmall fire til that the moyſture be flowne out through the hole of the couer of the ſubblimatorie, the whiche ye ſhall knowe by this meanes:
+<pb facs="tcp:181118:53"/> ye ſhall now and then holde a knife ouer the hole of the inſtrument, and then if the knife he weate there is moyſture in the veſſell, but when ye ſee that the knife is ſtill drie, ſtop the hole with a ſtopple of paper, and in<g ref="char:EOLhyphen"/>creaſe the fire a little bigger, and let it ſtand ſo fower houres long, then increaſe the fire yet bigger, and let it ſtande fower houres: then make the fire ſo hotte that the bottome maie be all red, and that co<g ref="char:cmbAbbrStroke">̄</g>tinue ſixe hours, but let not your fire ſlake, then let it waxe colde and take that which is ſubblimed, and grinde it on a ſtone with two pound of ſalte prepared, and ſubblime it againe as ye did afore in al pointes, the<g ref="char:cmbAbbrStroke">̄</g> let it waxe colde, and grinde it againe with Salte prepared, and ſublime it againe. This grindyng and ſub<g ref="char:EOLhyphen"/>limyng ye ſhall vſe vntill the <hi>Mercurie</hi> be as cleare as Chriſtall, &amp; as white as ſnow and then it is prepared, then keepe it in a glaſſe till that I write more thereof.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To ſublime Sulfur.</head>
+                     <p>
+                        <seg rend="decorInit">F</seg>Irſt before that ye will ſublime <hi>Sulfur,</hi> ye muſt prepare hym thus.</p>
+                     <p>Take <hi>Sulfur</hi> vife and grind
+<pb facs="tcp:181118:54"/> it to fine pouder, then ſearce it finely, then put it in a pan with ſtrong vineger, and ſet it on the fire, and let it ſeethe a whole daie and a night, but ye muſt put therto alwaies more vineger as it conſumeth awaie, and ſtill ye muſt ſkomme of the ſko<g ref="char:cmbAbbrStroke">̄</g>me or filthe as faſt as it riſeth, and when it hath ſodden ſo in vineger, ye ſhall ſeethe it two daies in the vrine of young children, and alwaies ſkomme of the frothe, and put therto more vrine alwaies as it conſumeth. This ſee<g ref="char:EOLhyphen"/>thing and ſkomming ye ſhall continue vn<g ref="char:EOLhyphen"/>till there riſe no more frothe, then put it in a glaſſe, and waſhe it with warme water till all the ſtincke of the piſſe be gonne, and that it remaine as white as any ſnow: the<g ref="char:cmbAbbrStroke">̄</g> drie it well for it is well purged, then take of that purged <hi>Sulfur</hi> half a pou<g ref="char:cmbAbbrStroke">̄</g>d, <hi>Vitrioll</hi> calcined <abbr>l</abbr>i. grinde theſe very fine together ſo that y<hi rend="sup">e</hi> 
+                        <hi>Sulfur</hi> can not be ſeene, then put them in a ſublimyng veſſell, and ſet it in the furnaſe, and giue it firſt a ſmall fire till all the moy<g ref="char:EOLhyphen"/>ſture be gonne, the whiche ye ſhall knowe with a knife as I ſhewed you afore: then ſtoppe the hole and increaſe the fire a little, and ſo keepe it ſixe houres, then let it waxe
+<pb facs="tcp:181118:54"/> colde and take that whiche is ſublimed, and grinde it with freſhe <hi>Vitrioll</hi> and ſublime it againe as ye did afore: this ſublimyng and grindyng with freſhe <hi>Vitrioll,</hi> ye ſhall vſe till that the <hi>Sulfur</hi> be as white as ſnow, and ſo cleare as a glaſſe, and then it is ſublimed enough: therefore keepe it in a glaſſe cloſe ſhut with Waxe, till that wee write more thereof.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To ſublime Sall Armoniack.</head>
+                     <p>TAke <hi>Sall Armoniack</hi> 
+                        <abbr>l</abbr>i. and as much limall of Iron and grinde them together on a ſtone, the<g ref="char:cmbAbbrStroke">̄</g> put them in a ſublimyng veſſell, and ſeeth it in the furnace firſt with a ſmall fire, and then increaſe it ſo that the bottome of the pot maie be red hot, and ſo let it ſtande half a Sommers daie, then let it waxe cold and take that which is ſubblimed &amp; grinde it on a ſtone, with as muche ſalte prepared and ſublime it againe: This grindyng with new ſalte and ſubblimyng, ye ſhall vſe ſo long till that it bee ſubblimed as white as ſnowe and then it is prepared: then keepe it
+<pb facs="tcp:181118:55"/> to ſublime thy <hi>Mercurie</hi> with.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To Sublime Copper, whiche is a greate ſecrete.</head>
+                     <p>
+                        <seg rend="decorInit">F</seg>Irſt ye muſt calcine it with <hi>Sul<g ref="char:EOLhyphen"/>fur</hi> thus.</p>
+                     <p>Take plates of Copper bea<g ref="char:EOLhyphen"/>ten as thinne as is poſſible, and cut them in little peeces as bigge as a penye or there a<g ref="char:EOLhyphen"/>boute, then take a cruſible and put therein Brimſtone beaten a finger thicke, then laie thereon a bed of theſe plates and couer the<g ref="char:cmbAbbrStroke">̄</g> with <hi>Sulfur,</hi> and then laie another bed and couer it with <hi>Sulfur</hi> againe, and this doe till that the cruſible be full, then ſette it in the calcinyng furnace half a daie long with a good fire, then let it waxe colde and grind it vpon a ſtone, then put it into <hi>Aqua for<g ref="char:EOLhyphen"/>tis</hi> and let it doſſolue: then diſtill awaie the water and make the pouder very drie, the whiche remaineth in the bottome of the glaſſe and grind it on a ſtone: with ſalt pre<g ref="char:EOLhyphen"/>pared, then put it in a ſublimyng veſſell, and ſet it in a furnaſe, and giue firſt a ſmall fire, and then giue it a very ſtrong fire fo<g ref="char:EOLhyphen"/>wer
+<pb facs="tcp:181118:55"/> and twentie houres: and then lette it waxe colde, and in the veſſell ye ſhall finde a greene pouder light and ſubtill, but nothing like the Copper the whiche ye had to ſub<g ref="char:EOLhyphen"/>blime. Then kéepe that in a glaſſe cloſe ſhut with waxe, for there is no better medicine in the worlde then this for the Canker, the Wolfe, Fiſtelowes, and all ſuch like ſores, for this doth helpe them quickly: and when ye will occupie it in ſuche ſores, ye muſte ſtrawe it thereon, and laie vpon it a wound plaiſter: of the which I haue writte<g ref="char:cmbAbbrStroke">̄</g> a num<g ref="char:EOLhyphen"/>ber in my pearle of Chirurgerie, and it ſhal heale them how ſore ſo euer they be.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To ſublime Lead and Tinne.</head>
+                     <p>THeſe two are ſublimed with leſſe labor then the Copper: neuertheleſſe when ye will ſublime them, goe to worke as thou didſt with Copper, ſauyng that ye maie not calcine them with <hi>Sulfur,</hi> but as I haue ſhewed you afore. And when it is ſo calcined ye ſhal diſſolue them in this ſtrong water following: and when it is diſ<g ref="char:EOLhyphen"/>ſolued diſtill the water awaie til it remaine
+<pb facs="tcp:181118:56"/> drie: then diſſolue it againe, and diſtill the water awaie againe, ſo that it remaine ſcant drie: then take that, and put thereto twiſe ſo muche ſalte prepared and ſublime them to<g ref="char:EOLhyphen"/>gether with a ſtrong fire, and ye ſhall finde a white pounder ſubblimed in the toppe, the which ſerueth to the ſame vſe that the Cop<g ref="char:EOLhyphen"/>per ſerueth for: that is in all foule Vlcerati<g ref="char:EOLhyphen"/>ons and filthie ſores, &amp;c.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>How to make the ſaied Aqua fortis to diſſolue Lead and Tinne.</head>
+                     <p>TAke ſalt Peter, <hi>Vitrioll Roman</hi> and <hi>Sall Armoniack,</hi> of eache one pou<g ref="char:cmbAbbrStroke">̄</g>d beate them well together and putte them in a glaſſe, the whiche is very well lu<g ref="char:EOLhyphen"/>ted: then ſet on the head with a greate recei<g ref="char:EOLhyphen"/>uer, and lute the ioyntes well that no ayre maie come forthe, then giue it a very ſmall fire twelue houres long, and then increaſe it accordyng to Arte: but take good heede that ye be not to raſhe with your fire at the firſt, leaſt that all the glaſſes flye in peeces: then keepe it to thy vſe, and when ye will diſſolue your Lead, ye muſt take for euery
+<pb facs="tcp:181118:56"/> pounde of Lead, two pounde of water, and diſſolue it cold, for otherwiſe it would blow the glaſſe in peeces.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Sulfur, the whiche is a greate ſecrete.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>His oyle is made in this ma<g ref="char:EOLhyphen"/>ner. Firſt ye ſhall haue a bell of yearth, or a heade of glaſſe like the common Stilles of Tinne, the whiche ye ſhall hang vp by a ſtring: then take a plate of I<g ref="char:EOLhyphen"/>ron of a finger thicke, and twoo fingers broade, and make it redde hotte in the fire, then laye it vnder the bell or head, and caſte thereon Brimſtone, and let it burne, ſo that the fume maie goe within the bell, and this ye ſhall co<g ref="char:cmbAbbrStroke">̄</g>tinue poſſible a whole daie, afore that one droppe will fall. But when ye ſee it drop, then continue till ye haue oyle enough and then haſte thou a greate Treaſure, the whiche keepe in a glaſſe, for it will helpe the Poxe and all outwarde ſores and Vlcerati<g ref="char:EOLhyphen"/>ons, and alſo all ſtinkyng and filthie ſores, the whiche will not bee holpe. It is alſo ex<g ref="char:EOLhyphen"/>cellent
+<pb facs="tcp:181118:57"/> againſte the Roſe, and againſte the Peſtilence, the whiche ye muſte vſe in this maner. Take water of Sorell, of Roſes, of <hi>Cardus Benedictus of eche</hi> ℥.i. Oile of Sul<g ref="char:EOLunhyphen"/>fer ℈.i. mixe them together, and giue it the pacient as ſone as he feeleth hym ſelf ſicke, and laye hym doune to ſweate one howre, and let hym not ſtirre that he maie ſweate the better, then drie hym well warme clothes, and let hym reſt twoo howres, and then if ye haue liſte to eate, let hym haue a a cullus made of a Henne in this order. Ye ſhall boile the Henne or Chicken ſo long, that the fleſhe fall fro<g ref="char:cmbAbbrStroke">̄</g> the bones, then ſto<g ref="char:cmbAbbrStroke">̄</g>pe the bones and all, and ſtraine it with the ſaid broth, then put thereto a good deale of Su<g ref="char:EOLhyphen"/>ger, and a little Wine, and lette the pacient eate it with verie little bread: and then twoo howers after, ye ſhall giue hym the afore<g ref="char:EOLhyphen"/>ſaied receipte with oile, and let hym ſweate thereon twoo howers, as is ſaied afore, and this ye ſhall doe the next daie once, and by the grace of God the Peſtilence ſhall not hurte hym. But when ye will occupie it to the Poxe, or any other filthie ſores, ye ſhall giue it with water of Hoppes, of Cicorie,
+<pb facs="tcp:181118:57"/> of Germander, of eche ℥.i. water of Fume<g ref="char:EOLhyphen"/>torie ℥.ij. Oile of Sulfer ℈.i. theſe ye ſhall mixe together, and let the pacient drinke it at ſeuen a clocke in the Mornyng, and lette hym ſweate thereon twoo howers: then drie hym with warme clothes, and then at night ye ſhall giue hym that portion in ma<g ref="char:EOLhyphen"/>ner as ye did before, and lette hym ſweate thereon other twoo howers: and this order ye ſhall vſe till that thei be whole, the which will bee in verie ſhort tyme, ſo that it ſhall ſeme miraculous, for his ſores will preſe<g ref="char:cmbAbbrStroke">̄</g>tly be healed, although thei were neuer ſo euill.</p>
+                     <p>Againſte the Roſe ye ſhall take the wa<g ref="char:EOLhyphen"/>ter of Sorell of, Purſelene, and put thereto ℈.i. of oile of Brimſtone, and let the pacient drinke it, and lye doune to ſweate thereon, and in one daie he ſhalbe holpe, although he haue had it a long tyme.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of <g ref="char:V">Ʋ</g>itrioll.</head>
+                     <p>
+                        <seg rend="decorInit">F</seg>Irſt ye muſt haue an eathe<g ref="char:cmbAbbrStroke">̄</g> pot, the which holdeth about a gallon, and muſt be aboute a foote, or fourtene ynches hie, then ye muſt haue a head
+<pb facs="tcp:181118:58"/> of glaſſe, the which commeth iuſte ouer the pot, then take <hi>Vitrioll</hi> and put it in the pot, and then ſette on the head with a greate re<g ref="char:EOLhyphen"/>ceiuer, and lute the ioyntes well, them giue it ſmall fire, as I haue ſhewed you afore in the makyng of ſtrong water, and when ye ſee that it will drop no more, then encreaſe the fire a little, and ſo keepe it till it drop no more, then take awaie the receiuer, and powre out the water and ſet it too againe, and lute it faſt, then encreaſe thy fire by lit<g ref="char:EOLhyphen"/>tle and little, till that the fumes come forth: then keepe it bigger and bigger, ſo that the pot maie ſtande as hotte as the coales, and ſo keepe it till that the heade and receiuer waxe cleare againe, but in anywiſe ſlacke not thy fire: For I haue ſeene fire kepte a whole daie, after that the water was taken awaie, and neuer a drop fell into the recei<g ref="char:EOLhyphen"/>uer, but at the laſte it came apace, therfore leaue not till it bee doen. Then keepe this Oile verie cloſe in a glaſſe, that the ſpirites flée not awaie, for when it hath loſte his ſpi<g ref="char:EOLhyphen"/>rites, it is good for nothyng, but to corrod and eate awaie dead fleſhe. But when this Oile hath his ſpirites, there is no better
+<pb facs="tcp:181118:58"/> medecine in the worlde, againſt the fallyng ſickneſſe and Apoplexia beeyng vſed thus. Take <hi>Aqua vitae</hi> perfectly rectified, with out fleme one pinte, Oile of <hi>Vitrioll</hi> one ſpoonefull, mixe them and let the paciente drinke thereof euery mornyng one ſpoone<g ref="char:EOLhyphen"/>full, and he ſhalbe holpen, although he haue had it ten yeres, and fell euery hower: and for Apoplexia ye ſhall giue it in the ſaied or<g ref="char:EOLhyphen"/>der. But if he can not drinke it ſo, ye ſhall giue it as ye thinke good, ſo that he haue it in his bodie, and preſently he ſhall mende, although he haue had it a long tyme, and were lame ouer al his body. It is alſo excel<g ref="char:EOLhyphen"/>lent good againſt al hot feuers in the Som<g ref="char:EOLhyphen"/>mer, for it helpeth them in one daie, as I haue proued diuers tymes my ſelf, and ye ſhall giue it in this order. Take Burrage water as muche as ye will, and put thereto ſo much of this Oile, till it bee ſowre like Veriuiſe, and thereof let the pacient drinke aſmuche as ye will, and then ye ſhall ſee the pacient holpe, and his thirſt ſhall ſlake, and alſo his heate. This oile is alſo good againſt all foule and old ſores, and to take awaie their ſtincke, if ye mixe it with water of E<g ref="char:EOLhyphen"/>gremonie,
+<pb facs="tcp:181118:59"/> till it bee verie ſower, and then waſhe the ſore therewith. If ye mixe more Oile with the ſaied water, till it bee as fo<g ref="char:EOLhyphen"/>wer as Vineger, it takes awaie wartes if ye waſhe them therewith, and cauſe them to fall out without pain. It helpeth all ſcab<g ref="char:EOLhyphen"/>bes if ye waſhe them therewith, mixt with Egremonie water as is afore ſaied. If ye mixe it with Borage water, Bugloſſe wa<g ref="char:EOLhyphen"/>ter, and Melliſe water, it helpeth the beting of the harte, that hath co<g ref="char:cmbAbbrStroke">̄</g>tinued a long time.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>¶ To make water of Mercurie, the whiche <hi>Paraſelſus</hi> writeth of his booke of Chirurgerie.</head>
+                     <p>TAke <hi>Mercurie</hi> that is ſublimed, as I haue ſhewed you afore, and put it it a glaſſe, and ſet it in Furnace, and giue ſuche a temperate fire, that you maie hold your hand ouer it a <hi>Pater noſter</hi> while and that degree of fire ye ſhall keepe, the ſpace of ſixe weekes, but looke that ye in<g ref="char:EOLhyphen"/>creaſe not the fire, nor yet per deminiſhe it: then take that <hi>Mercurie</hi> and grinde it fine, and putte it into a bagge, like vnto an Ipocras
+<pb facs="tcp:181118:59"/> bagge, and hang it in a moiſte place, and ſet a glaſſe vnder it, and the <hi>Mercurie</hi> will turne into water, the whiche kepe well: and when thou wilte occupie that water, thou ſhalt weate a linnen clothe therein, and laie it on ſuche kinde of ſores, as will not bee holpe by no other kind of meanes: for it will take awaie their coroſiues, and cauſe them to heale, although thei were neuer ſo il. And more ouer, becauſe that thou ſhalte knowe wherefore that it ſerueth, ye ſhall note that it is good againſte all Cankers, Fiſtilous, the Woulfe, and ſuche like, for it helpeth them all, though thei were neuer ſo euill, as <hi>Paraſelſus</hi> writeth thereof in his greate Surgerie in the Chapiter of the Cancker and ſuche like.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make water of Sal Armoniake.</head>
+                     <p>TAke <hi>Sal Armoniake</hi> that is ſubli<g ref="char:EOLhyphen"/>med ſeuen tymes, and grinde it to pouder, then put it into a glaſſe, that hath a hole in the bottome on the one ſide, and then ſet that glaſſe in an other, and ſet them in a moiſte Seller, and then the <hi>Sal
+<pb facs="tcp:181118:60"/> Armoniacke</hi> will diſſolue into water, and runne into the nether glaſſe, the whiche ye ſhall keepe cloſe: In the aforeſaid maner ye maie make water of Allum, the whiche is excellent to drie vp all filthie wounds, &amp;c.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>¶ The order to fixe all thynges that are fliyng.</head>
+                     <p>TO fixe any thing, is to be vnderſtood thus. Ye ſhall ſublime it ſo ofte, that it will ſublime no more, but will lye in the fire, ſo that the fire can not conſume it, and when ye will fixe any thing, as Sul<g ref="char:EOLhyphen"/>fer, Quickſiluer, or Arſnicke, or ſuche like, ye ſhall dooe it in this order: Ye ſhall take <hi>Mercurie</hi> ſublimed, or <hi>ſulfur</hi> ſublimed, or Arſenicke, or ſuch like, and put it into a ſub<g ref="char:EOLhyphen"/>myng glaſſe, whiche I will ſhewe you di<g ref="char:EOLhyphen"/>uers paterns, in the next booke god willing and ſet it in a furnace with a ſmal fire, &amp; the<g ref="char:cmbAbbrStroke">̄</g> increaſe it according to Arte, the ſpace of a whole daie, and the<g ref="char:cmbAbbrStroke">̄</g> at euening ye ſhal turne tha glaſſe and lette it ſublime vp into the o<g ref="char:EOLhyphen"/>ther ende: and this order ye ſhall vſe with ſublimyng, from one ende vnto an other, till that it will ſublime no more: the whiche
+<pb facs="tcp:181118:60"/> ye ſhall proue in this maner. Ye ſhall take a little thereof and laye it on a redde hotte coale, and looke whether it ſmoke or no, for if it ſmoke it is not fixte, but if it ſmoke not it is fixte. But to knowe the verie trothe, ye ſhall take thereof and grinde it to pouder, and then put it into a cruſible, and giue it as greate a fire as though ye would melt Co<g ref="char:EOLhyphen"/>per, and then if ye ſee that there co<g ref="char:cmbAbbrStroke">̄</g>meth no ſmoke from it, it is fixt: but if that it ſmoke awaie, ye ſhall put it into a newe ſublimyng glaſſe, and ſublime it againe, then keepe it to thy vſe, till I write more thereof: for when you haue your ſpirites fixt, ye haue a greate Treaſure, the whiche is not to bee bought with money, &amp; principally of Sul<g ref="char:EOLhyphen"/>fer fixte, for therewith ye maie doe what ye liſte, for there can no ſickneſſe come vnto mannes bodie, but it maie bee holpe there<g ref="char:EOLhyphen"/>with. Alſo <hi>Mercurie</hi> beyng fixte, is ſuche an excelle<g ref="char:cmbAbbrStroke">̄</g>t medicine againſt the Poxe, that the like can not be found in the worlde. But ye ſhall note, that it mſt not be occupied a<g ref="char:EOLhyphen"/>lone, but with other things, y<hi rend="sup">e</hi> which I will ſhewe you in an other place. The Arſnicke and the Sal Armoniacke maie not be occu<g ref="char:EOLhyphen"/>pied
+<pb facs="tcp:181118:61"/> in any wiſe inwardly, but onely out<g ref="char:EOLhyphen"/>wardly, as ye ſhall heare hereafter, and eſ<g ref="char:EOLhyphen"/>pecially of the Salt of Arſnicke.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oile of Antimonie.</head>
+                     <p>
+                        <seg rend="decorInit">I</seg>F thou wilt make this Oile, ye muſte looke diligently to your fire, leaſt ye ſpoile all: then take a retoret of glaſſe, and lute it very well, and put therein three pounde of <hi>Antimonie,</hi> and three pounde of <hi>Sal gem</hi> calcined, beaten to<g ref="char:EOLhyphen"/>gether, then increaſe thy fire accordyng to Art, three daies and three nightes, and lute thy receiuer verie well, the whiche muſt be of the quantitie of fiue or ſixe gallons, or more, the greater the better, and then thou ſhalte haue an Oile as redde as blood, the whiche is not to be ſolde, or bought for mo<g ref="char:EOLhyphen"/>ney. For it helpeth the Canker, the Woulf <hi>Noli me tangere,</hi> and Fiſtulais, if ye an<g ref="char:EOLhyphen"/>noint them therewith: firſt the deade fleſhe will fall out without paine, and then it will heale, how ſore ſo euer it bee, although it were fourtie yeres old.</p>
+                     <pb facs="tcp:181118:61"/>
+                     <p>
+                        <hi>In ſumma.</hi> It is a moſte excellent Oile againſt all ſores, and venemous Vlcers, for if ye annointe them three tymes therewith, it helpeth them, although thei were ſo ve<g ref="char:EOLhyphen"/>nemous that thei did eate a hande broad in one night, as it is diuers tymes ſéene of the Woulf, and ſuche like vlcerations, that ea<g ref="char:EOLhyphen"/>teth ſo, that it ſéemeth that a Dogge had bitten out a greate péece. Theſe and all o<g ref="char:EOLhyphen"/>ther Vlcerations, the whiche will not bee holpe by any meanes, ye ſhall helpe them with this Oile in ſhort tyme, ſo that it ſhall ſéeme merueilous to beholde.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>¶ How ye maie drawe forthe ſalt out of all mettalles: and first out of Gold, the whiche is called ſall Sapientium.</head>
+                     <p>
+                        <seg rend="decorInit">F</seg>Irſt if thou wilte make Salte of Golde, thou ſhalt take Gold filed into pouder, and diſſolue it in the afore written ſtrong wa<g ref="char:EOLhyphen"/>ter, and when it is diſſolued, ye ſhall boile a<g ref="char:EOLhyphen"/>waie the water, till remaine drie, then thou ſhalt put theron faire water, and let it
+<pb facs="tcp:181118:62"/> ſéeth therewith three or fower houres long, and then powre it awie, and putte more thereon and lette it ſeethe againe, and then powre it of againe: this powryng on and of ye ſhall vſe till that the water haue no taſte of the ſtrong water, but is ſwéete: and when it is ſo, giue it greate fire that it maie drie well, then put it in a glaſſe and ſet it in a cal<g ref="char:EOLhyphen"/>cinyng furnace, and there it ſhall calcine a whole month long, ſo that it remain alwaies red hot and at one degree of fire: the<g ref="char:cmbAbbrStroke">̄</g> take it and grinde it on a ſtone, till that it bee as fine as is poſſible: then powre thereon good diſtilled vineger, and laie a couer ouer the glaſſe, and let it ſeethe in <hi>Balneo Mariae</hi> a whole daie long, puttyng thereto alwaies freſhe vineger: then powre of that vineger into a glaſſe and put thereon more, &amp; boyle it a whole daie as ye did afore, and this ye ſhall doe three tymes: then take that vine<g ref="char:EOLhyphen"/>ger that ye powred of, and diſtill it by <hi>Bal<g ref="char:EOLhyphen"/>neo Mariae</hi> till it remaine drie, and in the bottome ye ſhall finde a Salte as white as ſnow, the which ye ſhall take and put there<g ref="char:EOLhyphen"/>on more vineger, and ſette it in the <hi>Balneo Mariae</hi> that it maie boyle the ſpace of two
+<pb facs="tcp:181118:62"/> howres, then lett it ſettle a whole daie, and then powre of that which is cleare, and then if there remaine any thyng in the bottome, it is not enough preparde: then ye ſhall diſ<g ref="char:EOLhyphen"/>olue it in Vineger againe, and diſtill the Vineger againe as I haue ſhewed you, and ye ſhall finde a whiter ſalte in the bottome of the glaſſe, the whiche ye ſhall put in Vi<g ref="char:EOLhyphen"/>neger againe, and lett that boile in <hi>Balneo Mariae</hi> twoo howres, as I ſhewed you a<g ref="char:EOLhyphen"/>fore, and then lette it ſtande and ſettle, and then powre of the clearer part, and diſtill it in <hi>Balneo Mariae,</hi> and the Salte will re<g ref="char:EOLhyphen"/>maine in the bottome as white as Snowe. But if there remaine any in the other glaſſe ye ſhall not dooe as I haue ſhewed you, till it be all diſſolued. Then diſſolue that Salt in Raine water three or fower tymes, and looke whether there remaine any Salte in the bottome vndiſſolued, &amp; if there remaine none, it is well prepared, or els not, and it is called <hi>Sal Philoſophorum,</hi> or <hi>Sal Sapien<g ref="char:EOLhyphen"/>tiae,</hi> and when it is diſſolued into cleare wa<g ref="char:EOLhyphen"/>ter, ye ſhall diſtill awaie the water, that the Salte maie remaine verie drie in the bot<g ref="char:EOLhyphen"/>tome, the whiche ye ſhall keepe in a glaſſe
+<pb facs="tcp:181118:63"/> cloſe ſhotte: for it is an excellente Medecine againſte all diſeaſes of the bodie, for it will leaue nothing in mans bodie that ſhal hurt hym, but it driueth it out by ſweate, and maketh the pacient ſounde and whole as e<g ref="char:EOLhyphen"/>uer he was in all his life. It helpeth all out<g ref="char:EOLhyphen"/>warde ſores, as the Canker, the Woulfe, Fiſtiloes, and ſuche like. This beyng ta<g ref="char:EOLhyphen"/>ken inwardlie doeth helpe thoſe outwarde deſeaſes moſte wonderfull. For it helpeth them in three or fower daies, and when ye will occupie it againſte ſuche deſeaſes, ye ſhall vſe it in this order: Ye ſhall take a viol full of wine, and put therein twoo or three graines of that Salt, for it is ſufficient for any ſicke perſone, for any kinde of deſeaſes, then ſtoppe that Violl, and ſet it in warme water till the Salt bee diſſolued, then giue the ſicke perſone thereof to drinke warme, and laye hym doune to ſweate, for it will cauſe hym to ſweate wonderfully, therefore keepe hym from the colde in any wiſe, for that ſweate will bryng hym to healthe a<g ref="char:EOLhyphen"/>gaine, although he were a Leper, ſo that it come not by Nature of his mother, for if it come by kinde, there is no helpe that I doe
+<pb facs="tcp:181118:63"/> knowe, yet neuertheleſſe this medecine can not hurt, nor yet it can not helpe hym. But other ſickneſſes, although they were neuer ſo euill or ſore, it will helpe the<g ref="char:cmbAbbrStroke">̄</g>. It helpeth the Peſtilence miraculouſly in one daie, and likewiſe the Poxe in ſhorte tyme, gi<g ref="char:EOLhyphen"/>uyng it as is aforeſaied in wine, and laye thereon and ſweate, and the<g ref="char:cmbAbbrStroke">̄</g> drie awie the ſweat with warme clothes, and when thou wilte helpe any outward ſore, thou ſhalte laye thereon a wounde plaſter, and let hym drinke the ſaied Salte with Wine mor<g ref="char:EOLhyphen"/>nyng and euenyng, as is ſaied afore, and in ſhort ſpace thei ſhalbe holpen.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>The order to distill Vineger for to make the aforeſaied Saltes.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>Ake good ſtrong Reniſhe Wine vineger, and diſtill it in a Limbeck of glaſſe, and giue it firſte a ſmall fire till half be diſtilled, then take it awaie for it is nothyng worthe to our worke, then taſte it on thy tongue whether it bee ſharpe or no, if it be not ſharpe it is not good: if not kepe that ſmall ſire till that the liquor come
+<pb facs="tcp:181118:64"/> forthe ſowre: for ye ſhall note that the worſt of the vineger diſtilleth firſt, then diſtil that whiche is laſt with a reaſonable fire vntill it bee almoſte diſtilled, but ye maie not di<g ref="char:EOLhyphen"/>ſtill it all quite out, leaſt it ſhould ſtincke of the fire and waxe redde, for then it will not ſerue our purpoſe. Moreouer ye ſhall note that it maie not drop faſter, but that a man maie ſaie a <hi>Pater noſter</hi> betwene.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To drawe forth the ſalte of Arſnicke.</head>
+                     <p>
+                        <seg rend="decorInit">T</seg>He ſalte of <hi>Arſnicke</hi> is a mar<g ref="char:EOLhyphen"/>uelous ſalt, but it is ſharpe and coroſiue, and the order to make it is thus.</p>
+                     <p>Take <hi>Arſnicke</hi> ℥.j. the whiche is fixte and diſſolue it in <hi>Aqua fortis</hi> made of ſale Peter and Allum, and when it is diſſol<g ref="char:EOLhyphen"/>ued putte thereon raine water, till that it ſincke to the bottome, and when it is ſunck to the bottome lette it ſtande to ſettle, and then powre of that parte whiche is cleare, and put on more freſh water and let it ſeeth and then let it ſettle and powre of the wa<g ref="char:EOLhyphen"/>ter againe, and then powre one more: and
+<pb facs="tcp:181118:64"/> this order ye ſhall vſe till that the water come of as ſweete as ye put it on, then cal<g ref="char:EOLhyphen"/>cine it ſixe daies &amp; ſixe nightes, then powre thereon diſtilled vineger and ſeeth it in <hi>Bal<g ref="char:EOLhyphen"/>neo Mariae</hi> to diſſolue, and at night lette it ſettle and waxe cleare: then powre of that whiche is cleare and put or more, and let it ſtand a daie to diſſolue as I ſaied afore, and then let it waxe cleare and the<g ref="char:cmbAbbrStroke">̄</g> powre of the cleare partes. This ye muſt do three times as is ſaied of Golde, and then drie it very well, and put thereon faire raine water till it be diſſolued, and when it is diſſolued ye ſhall make no more fire vnder it but lette it waxe cold, and then powre the cleare partes of and diſtill it in <hi>Balneo Mariae</hi> till it bee drie: and then ye ſhall finde your ſalte in the grounde as white as ſnowe: the whiche is moſte excellent againſte the Canker, the Woulfe, and ſuch like as commeth of wou<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>des, &amp;c. ye ſhall helpe them thus. Take of this falt ℈.i. and put thereto ℥.i. of <hi>Vnguen<g ref="char:EOLhyphen"/>tum fuſcum,</hi> and therewith dreſſe the ſores and thei will heale in ſhorte tyme, although they weare neuer ſo olde: and therefore if thou wilt vnderſtande wherefore it ſerueth:
+<pb facs="tcp:181118:65"/> looke in my pearle of Chirurgerie, and al<g ref="char:EOLhyphen"/>ſo in the Chirurgerie of <hi>Paraſelſus.</hi>
+                     </p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of the Metalles and firſt of Lead and Tinne.</head>
+                     <p>
+                        <seg rend="decorInit">I</seg>F thou wilt make Oyle of theſe two Metalles, ye muſt firſt cal<g ref="char:EOLhyphen"/>cine them as I haue ſhewed you and then diſſolue them in the a<g ref="char:EOLhyphen"/>foreſaied ſtrong water, and when they bee diſſolued let them ſtande till it be as cleare as a glaſſe, then diſtill awaie the water by a Limbecke till it remaine drie, and when it is drie, put thereon good diſtilled vineger and ſette it in <hi>Balneo Mariae</hi> to diſſolue a whole daie and let it boyle, then let it waxe colde and ſettle, then powre of that parte which is cleare &amp; diſtill it in another glaſſe, and when your matter is drie, put thereon other diſtilled vineger, and let it ſeethe ſo long til that it be diſſolued, then diſtill away the vineger, and then put on more vineger: this diſſoluyng and diſtillyng ye ſhall vſe ſo long till that the matter remaine in the bot<g ref="char:EOLhyphen"/>tome like Oyle, then put it forthe whileſt
+<pb facs="tcp:181118:65"/> it is yet warme, for when it is colde it is ſo tough that ye can not get it from the glaſſe: This oyle being ſo made is moſt excellent, for it healpeth woundes and ſores in very ſhorte tyme: and moreouer there is no oyle amongſt all the ſecretes of Phiſicke or ſur<g ref="char:EOLhyphen"/>gerie that healeth a wounde ſoner then this oyle doeth, for it helpeth them in fower and twentie houres, ſo that there bee no bones broke or cut, &amp;c. There is another maner of makyng of this oyle the whiche is better, whiche we will not write of in this place.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Copper, and of Cro<g ref="char:EOLhyphen"/>cum martis, or Iron.</head>
+                     <p>THeſe Metalles ye muſt firſte cal<g ref="char:EOLhyphen"/>cine, and then diſſolue them in ſtrong water, then putte thereon raine water till that the Mettall ſincke to the bottome, then put to ſo muche raine water till that it haue no taſte of the ſtrong water, then drie it wel and put ther<g ref="char:EOLhyphen"/>on diſtilled vineger, and ſette it in <hi>Balneo Mariae</hi> to diſſolue, then diſtill awaie the vi<g ref="char:EOLhyphen"/>neger till it remaine drie, and then put ther<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:181118:66"/> freſhe vineger, and diſtill that awaie till that the matter remaine drie: and this order ye ſhall vſe till that y<hi rend="sup">e</hi> matter remaine moiſt in the bottome like oyle. This oyle is of like vertue as the other, and therefore wee will write no more thereof in this place.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>To make Oyle of Quicksiluer.</head>
+                     <p>
+                        <seg rend="decorInit">I</seg>F thou wilte make this Oyle, ye muſt haue <hi>Mercurie</hi> fixte or els it will not ſerue to our vſe: therefore take that which is fixte and put it in ſtrong water, and ſet it in <hi>Balneo</hi> to diſſolue, and ſet thereon a head, and when it is diſſolued let it ſettle, and then powre of that parte which is cleare and diſtill it in <hi>Balneo Ma<g ref="char:EOLhyphen"/>riae,</hi> and your <hi>Mercurie</hi> will remaine in the bottome, then put thereon raine water, and waſh it ſo long that the water haue no taſte of the ſtrong water, but remaine as ſweete as ye put it on: then putte thereon diſtilled vineger, and ſet it in <hi>Balneo Mariae</hi> a hole daie till that it bee diſſolued, then diſtill the vineger awaie, and put thereon freſhe, and ſet it in <hi>Balneo Mariae</hi> againe to diſſolue,
+<pb facs="tcp:181118:66"/> and then diſtill it awaie againe: and this or<g ref="char:EOLhyphen"/>der ye ſhall vſe till that it remaine like an oyle in the bottome, then take it forthe and keepe it in a glaſſe cloſe ſhut, leaſt it ſhould leeſe his ſtrength. This oyle is of as great operation in freſhe woundes as the other aforeſaied are: it is aboue all other againſt the poxe to be vſed outwardly, for it helpeth all ſores that come of the poxe, if ye anoynt the ſores therewith and in the aforeſaid ma<g ref="char:EOLhyphen"/>ner: Ye maie make Oyles of all Metalles but they are not to be taken inwardly, and therefore I will ſhewe thee another order how you ſhall make Oyles of all the Me<g ref="char:EOLhyphen"/>talles to vſe inwardly.</p>
+                  </div>
+                  <div type="recipe">
+                     <head>¶ To make Oyle of Gold, the whiche is distilled through the helme, and is to be vſed both inward<g ref="char:EOLhyphen"/>ly and outwardly.</head>
+                     <p>
+                        <seg rend="decorInit">I</seg>F thou wilt make Oyle of Golde, ye ſhall take his ſalt of the whiche we haue made mention afore, and put it in to a glaſſe with a lo<g ref="char:cmbAbbrStroke">̄</g>g necke,
+<pb facs="tcp:181118:67"/> and mixe the glaſſe faſt with hermes ſell, that is with a paire of gloyng tonges, as I will ſhewe you hereafter: then ye ſhall ſette the ſaied glaſſe in a calcinyng furnace, with a fire ſo temperate as though it ſtode in the Sunne: and there ye ſhal let it ſtande eight daies, and then increaſe the fire other eight daies, till that ye ſee it beginne to waxe yel<g ref="char:EOLhyphen"/>lowe, and then keepe thy fire in that heate till that thou ſeeſt thy glaſſe all yellowe, and then increaſe thy fire a little till that ye ſee it waxe a brouner yellowe: and when ye ſee that, ye ſhal kepe it in that heate eight daies, and then if ye ſee it chaunge no colour in<g ref="char:EOLhyphen"/>creaſe your fire a little more eight daies, and then ye ſhall ſee it waxe red, and when it is indefferent red, ye ſhall increaſe your fire againe eight daies, till that ye ſee it a broune red, then ye maie giue it a greater fire for it is fixte, and no fire can conſume it: and when ye haue kepte it eight daies in ſuche a greate heate, ye ſhall lette it waxe colde, and if ye will make this oyle, ye ſhall grinde it in fine pouder, and putte it into a ſtone pot, and put thereon diſtilled vineger and ſette it in <hi>Balneo Mariae</hi> to diſſolue fo<g ref="char:EOLhyphen"/>wer
+<pb facs="tcp:181118:67"/> daies long, then let it ſettle and powre of the cleare partes, and put thereon more vineger and ſtop the pot very cloſe, and ſet it againe other fower daies in <hi>Balneo Mariae</hi> to diſſolue, and euery daie ye ſhall ſtirre it twoo or three tymes with a ſticke, then let it waxe colde and ſettle, and powre of the cleare partes, and then put thereon freaſhe Vineger, and ſette it to diſſolue againe, and let it ſtande and ſettle vntill the fifth daie in the mornyng, then let it waxe colde and ſet<g ref="char:EOLhyphen"/>tle, and then powre of the cleare partes, and if there remaine any thyng in the pot<g ref="char:EOLhyphen"/>tes bottome, caſte it out: for it is not profi<g ref="char:EOLhyphen"/>table for our woorke, then waſhe the potte verie cleane, and putt therein the ſaied Vi<g ref="char:EOLhyphen"/>neger that ye boiled afore, and diſtill it <hi>per <hi>Balneo Mariae,</hi>
+                        </hi> vntill it be drie, and ye ſhall finde the pouder fairer then it was afore, then put thereon freaſhe Vineger, and ſette it to diſſolue in <hi>Balneo Mariae,</hi> as is ſaied afore. And when it hath ſtoode fower daies, ye ſhall powre it cleare of, and looke if there remain any feces or pouder in the bottome and if there bee any, you ſhall powre it out, and make the potte cleane, and put therein
+<pb facs="tcp:181118:68"/> the ſaied Vineger whiche ye powred of, and diſtill it awaie <hi>per <hi>Balneo Mariae,</hi>
+                        </hi> vntill that it remaine drie: then put thereon freſhe Vineger, and diſſolue it as I haue ſhewed you, and then powre of the Vineger and diſtill it againe, and this ye ſhall vſe, vntill that you finde no more Sande in the bot<g ref="char:EOLhyphen"/>tome. But that it is all diſſolued, and then it is prepared to make his Oile of, then di<g ref="char:EOLhyphen"/>ſtill that laſte Vineger awaie <hi>per <hi>Balneo Mariae,</hi>
+                        </hi> vntill that it bee verie drie, then put it into a glaſſe with a head and a greate receiuer, the whiche ye muſt lute together verie well, that no aire maie come forthe, then giue it ſmall fire iiij. houers long, and then increaſe it a little ſtronger, and ſo keepe it other fower howers, and then ye ſhall ſee certaine yellowe fumes riſe vp in<g ref="char:EOLhyphen"/>to the head, then keepe thy fire in that de<g ref="char:EOLhyphen"/>gree, vntill that thou ſeeſt the head waxe read, then increaſe your fire a little, vntill that the head be as read as blood, then kepe thy fire in that ſtate, vntill thou ſeeſt the couler beginne to ſlake. Then make thy fire greater, vntill that the bottome of the Veſſell bee read, and then keepe it in that
+<pb facs="tcp:181118:68"/> ſtaye one hower, and then the head will ſeeme to bee full of Snowe. Then make the fire as greate at thou canſte, vntill the head waxe cleare againe as it was at the firſte. Then let it waxe cold, and thou ſhalt finde an Oile in the receiuer, the whiche is not to bee bought for any money: For be<g ref="char:EOLhyphen"/>cauſe it helpeth all diſeaſes in mannes bo<g ref="char:EOLhyphen"/>die, bothe inwardly and outwardy: al<g ref="char:EOLhyphen"/>though thei bee neuer ſo euill, as the Peſti<g ref="char:EOLhyphen"/>lence, the Poxe, the Woulfe, the Canker, Conſumptions, the Dropſie, and the Le<g ref="char:EOLhyphen"/>per, if ſo bee that it came not by Nature of the Father and Mother. And the order to take it is thus: Ye ſhall take a potte of wine and put therein ℈. i. of this Oile, and giue the ſicke thereof to drinke in the mornyng, and let hym lye in his bedde and ſlepe, and then thou ſhalte ſee wonders. And if ſo bee that the pacient bee full of euill humours, and that he ſhall neede pourgyng, it will cauſe nature to caſt for the either by ſweate, or vrine, or by vomite, or dounewarde, as long as the paciente ſhall haue neede, and then ſtraite waies amende and waxe ſtron<g ref="char:EOLhyphen"/>ger: then if that he had eate a whole Capon
+<pb facs="tcp:181118:69"/> and then if the pacient doe pourge no more by any of the ſaied meanes aforeſaid, ye ſhal giue it hym but three daies. For if he doe purge more then one daie, it is a token that he is full of corruptio<g ref="char:cmbAbbrStroke">̄</g>, as of the Leprie, and the Poxe, for thoſe are ſo full of corruption, ſo that he can not bee holpe in one daie by Nature. Therefore ye ſhall giue it more then three daies, that is thus to bee vnder<g ref="char:EOLhyphen"/>ſtoode, ye ſhall giue it hym ſo long that na<g ref="char:EOLhyphen"/>ture purgeth no more, and that ye maie ſee that the paciente waxeth verie ſtrong, for this Medecine woorketh with the helpe of Nature a long tyme after, and therefore this medecine is precious, and of too quick operatio<g ref="char:cmbAbbrStroke">̄</g> to giue to any ſicke perſon where no neede is. But as for the Woulf and the Canker, and ſuche like outward ſores, ye ſhall vnderſtand, that there is néede of no o<g ref="char:EOLhyphen"/>ther helpe then the aforeſaied drinke, as is ſaid afore: &amp; ye ſhall laie vpon the ſore a cole leafe or li<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>te, and you ſhall ſee great aboun<g ref="char:EOLhyphen"/>dance of foule and rotte<g ref="char:cmbAbbrStroke">̄</g> blood and ſuche like come forthe: The which is ſcant to be bele<g ref="char:EOLhyphen"/>ued, and then thoſe holes or ſores will incar<g ref="char:EOLhyphen"/>nace, and heale of the ſelues without fault.</p>
+                     <trailer>FINIS.</trailer>
+                     <pb facs="tcp:181118:69"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:181118:70"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:181118:70"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
